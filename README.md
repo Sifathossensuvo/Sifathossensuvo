@@ -9,7 +9,12 @@
 
 ### 「 𝘾𝙍𝙀𝘼𝙏𝙄𝙉𝙂 • 𝘿𝙄𝙂𝙄𝙏𝘼𝙇 • 𝙀𝙓𝙋𝙀𝙍𝙄𝙀𝙉𝘾𝙀𝙎 」
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&repeat=true&width=750&lines=Frontend+Developer;React+Developer;Creative+UI+Engineer;Building+Modern+Web+Experiences;Clean+Code+%7C+Creative+Mind;Welcome+To+My+GitHub"/>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&repeat=true&width=950&lines=%3E+Booting+Developer+Profile...;%3E+Loading+Creative+Mind...;%3E+Initializing+React+Environment...;%3E+Access+Granted.;%3E+Welcome+Sifat+Hossen+Suvo."
+    alt="Terminal Typing Animation"
+  />
+</p>
 
 <br>
 
