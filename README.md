@@ -1,37 +1,42 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type/waving?color=gradient&height=250&section=header&text=Hi%20I'm%20Sifat%20Hossen%20Shuvo&fontSize=50&animation=fadeIn&fontAlignY=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/type/waving?color=00ff66&height=250&section=header&text=SYSTEM%20ONLINE:%20SIFAT&fontSize=45&animation=twinkling&fontAlignY=45&fontColor=000000" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Digital+Experiences;Turning+Code+Into+Art" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=500&color=00FF66&center=true&vCenter=true&width=600&lines=%3E_+SIFAT+HOSSEN+SHUVO%3B%3E_+INITIALIZING+CYBERPUNK+GRID...%3B%3E_+FULL-STACK+WEB+DEVELOPER%3B%3E_+TURNING+GLITCHES+INTO+ART" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sifathossensuvo&label=SYSTEM%20ACCESS%20COUNT&color=00ff66&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## 🌐 About Me
+## 🌐 [ CORE_PROFILE ]
 
-<table align="center">
+<table align="center" border="0" cellpadding="10">
   <tr>
-    <td width="60%" valign="top">
-      <h3>🚀 Crafting Web Magic</h3>
-      <p>Hello! I am <strong>Sifat Hossen Shuvo</strong>, a passionate Web Developer focused on building high-performance, visually stunning, and highly interactive web applications. With a deep love for clean code and modern UI/UX design, I turn complex problems into beautiful digital experiences.</p>
-      <p>⚡ <strong>What I do:</strong> I bridge the gap between robust backend logic and pixel-perfect frontend aesthetics.</p>
+    <td width="55%" valign="top">
+      <h3>⚡ INFRASTRUCTURE ARCHITECT</h3>
+      <p>Welcome to my digital grid. I am <strong>Sifat Hossen Shuvo</strong>, a Web Developer operating from the shadows of the web. I specialize in building ultra-fast, high-performance web systems and neon-infused immersive user interfaces.</p>
+      <p>I don't just write code; I orchestrate digital realities. My stack is fine-tuned for speed, security, and absolute dominance in the browser matrix.</p>
+      <p>🟢 <strong>Current Mission:</strong> Weaponizing Next.js and backend microservices for next-gen web applications.</p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHc3d255Mm95cm15NmptMDZ5c3Qxazl5bndrM2t5cmR0b3J5MHVzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="80%" alt="Coding Animation">
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5Ym15M25pdXg4bmNnbzN3Y29idm8xdmFwYmZ4dzF0bmM4YmptNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kaq6GgWDW685X3Z6IE/giphy.gif" width="90%" alt="Cyberpunk Code Animation">
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Current Focus
+## 🛰️ [ TERMINAL_STATUS ]
 
-- 🔭 **Presently working on:** Scaling robust web architectures and advanced frontend animations.
-- 🌱 **Learning & Exploring:** Next.js 15, Docker microservices, and Web3 technologies.
-- 💬 **Ask me about:** React, Node.js, Database optimization, and UI/UX best practices.
-- ⚡ **Fun Fact:** I write code that executes faster than your morning coffee kicks in.
+- 🔭 **Current Project:** Building heavy-duty scalable web architectures.
+- ⚡ **Hacking Stack:** Cyberpunk frontend design & bulletproof APIs.
+- 💬 **Comms Link:** Open for critical web development architecture discussion.
+- 🧠 **Core Philosophy:** `If (coffee == empty) { code_quality = glitch } else { system = god_mode }`
 
 ---
