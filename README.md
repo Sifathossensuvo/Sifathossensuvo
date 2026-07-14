@@ -89,3 +89,84 @@ Coffee    :: Infinite ☕
 
 </div>
 
+<div align="center">
+
+# ◈ IDENTITY SCAN ◈
+
+### 「 AUTHENTICATION SUCCESSFUL 」
+
+<br>
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                         NEURAL PROFILE SCAN                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                     ║
+║   NAME        :: SIFAT HOSSEN SUVO                                  ║
+║   ROLE        :: FRONT-END DEVELOPER                                ║
+║   SPECIALTY   :: REACT • JAVASCRIPT • UI ENGINEERING                ║
+║   LOCATION    :: BANGLADESH                                         ║
+║   EXPERIENCE  :: BUILDING MODERN & INTERACTIVE WEB APPLICATIONS     ║
+║   STATUS      :: VERIFIED                                            ║
+║                                                                     ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+## ⚡ CURRENT
+
+```yaml
+Learning:
+  - React Ecosystem
+  - Backend Development
+  - UI Animation
+```
+
+</td>
+
+<td align="center" width="33%">
+
+## 🎯 TARGET
+
+```yaml
+Goal:
+  - Global Freelancing
+  - Open Source
+  - SaaS Products
+```
+
+</td>
+
+<td align="center" width="33%">
+
+## 🚀 MINDSET
+
+```yaml
+Rule:
+  - Learn
+  - Build
+  - Improve
+  - Repeat
+```
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+> ### **"Every project is another step toward mastery."**
+
+</div>
+
+---
+
