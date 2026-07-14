@@ -370,4 +370,73 @@ REST API
 
 ---
 
+<div align="center">
+
+# ◈ CYBER COMMAND CENTER ◈
+
+### 「 LIVE DEVELOPER TELEMETRY 」
+
+<br>
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                     SYSTEM MONITOR : ACTIVE                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   CPU ............... ████████████████████ 100%                     ║
+║   CREATIVITY ........ ████████████████████ 100%                     ║
+║   CURIOSITY ......... ███████████████████░ 98%                      ║
+║   COFFEE ............ ████████████████████ ∞                        ║
+║   BUG HUNTING ....... ███████████████████░ 97%                      ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<table>
+
+<tr>
+
+<td align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+
+</td>
+
+<td align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&background=00000000"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
+
+<br><br>
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STATUS      :: ONLINE
+
+COMMITS     :: TRACKING...
+
+CONTRIBUTIONS :: SYNCHRONIZED
+
+MISSION     :: KEEP BUILDING
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+---
+
+
 
