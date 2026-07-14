@@ -1,57 +1,37 @@
-<!-- ========================================================= --> <!-- ███████╗██╗███████╗ █████╗ ████████╗ --> <!-- ██╔════╝██║██╔════╝██╔══██╗╚══██╔══╝ --> <!-- ███████╗██║█████╗ ███████║ ██║ --> <!-- ╚════██║██║██╔══╝ ██╔══██║ ██║ --> <!-- ███████║██║██║ ██║ ██║ ██║ --> <!-- ╚══════╝╚═╝╚═╝ ╚═╝ ╚═╝ ╚═╝ --> <!-- ========================================================= --> <!-- ========================================================= --> <!-- CUSTOM BANNER --> <!-- ========================================================= --> <!-- 📁 STEP 1 Create this folder inside your repository /assets Put your banner image here /assets/banner.png Recommended Size 1920 × 700 or 1600 × 600 Cyber Black Neon Green --> <p align="center"> <img src="./assets/banner.png" width="100%"/> </p> --- <div align="center"> # <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Hi+I'm+Sifat+Hossen+Suvo;Frontend+Developer;React+Developer;Three.js+Developer;Building+Cinematic+Web+Experiences;Welcome+To+My+Github" /> </div> --- <div align="center"> ## ⚡ Frontend Developer From Bangladesh 🇧🇩 Building immersive digital experiences with modern web technologies. </div> --- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sifathossensuvo&style=for-the-badge&color=39ff14"/> <img src="https://img.shields.io/github/followers/Sifathossensuvo?style=for-the-badge&color=39ff14"/> <img src="https://img.shields.io/github/stars/Sifathossensuvo?style=for-the-badge&color=39ff14"/> </p> --- # <div align="center">👨‍💻 ABOUT ME</div>
-yaml
-Name:        Sifat Hossen Suvo
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type/waving?color=gradient&height=250&section=header&text=Hi%20I'm%20Sifat%20Hossen%20Shuvo&fontSize=50&animation=fadeIn&fontAlignY=45" width="100%" />
+</p>
 
-Country:     Bangladesh
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Digital+Experiences;Turning+Code+Into+Art" alt="Typing SVG" />
+  </a>
+</p>
 
-Role:        Frontend Developer
+---
 
-Focus:       Modern UI
+## 🌐 About Me
 
-Passion:     Interactive Experiences
+<table align="center">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🚀 Crafting Web Magic</h3>
+      <p>Hello! I am <strong>Sifat Hossen Shuvo</strong>, a passionate Web Developer focused on building high-performance, visually stunning, and highly interactive web applications. With a deep love for clean code and modern UI/UX design, I turn complex problems into beautiful digital experiences.</p>
+      <p>⚡ <strong>What I do:</strong> I bridge the gap between robust backend logic and pixel-perfect frontend aesthetics.</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHc3d255Mm95cm15NmptMDZ5c3Qxazl5bndrM2t5cmR0b3J5MHVzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="80%" alt="Coding Animation">
+    </td>
+  </tr>
+</table>
 
-Learning:    React • Three.js
+---
 
-Mission:     Build Websites People Never Forget
+## 🛠️ Current Focus
 
-Status:      Always Improving
---- # <div align="center">⚡ TECH STACK</div> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,git,github,vscode,figma,npm&theme=dark"/> </p> --- # <div align="center">🚀 CURRENTLY LEARNING</div> <p align="center"> <img src="https://skillicons.dev/icons?i=threejs,nextjs,ts,redux,firebase,mongodb&theme=dark"/> </p> --- # <div align="center">⚔️ DEVELOPER STATS</div> <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sifathossensuvo&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=000000"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sifathossensuvo&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=000000"/> </p> --- <p align="center"> <img width="100%" src="https://streak-stats.demolab.com?user=Sifathossensuvo&theme=chartreuse-dark&hide_border=true&background=000000"/> </p> --- <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sifathossensuvo&theme=chartreuse-dark&bg_color=000000&hide_border=true"/> </p> --- # <div align="center">🏆 GITHUB TROPHIES</div> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sifathossensuvo&theme=matrix&margin-w=20&margin-h=20&no-frame=true"/> </p> --- # <div align="center">💻 MY WORKFLOW</div>
-text
-☕ Coffee
+- 🔭 **Presently working on:** Scaling robust web architectures and advanced frontend animations.
+- 🌱 **Learning & Exploring:** Next.js 15, Docker microservices, and Web3 technologies.
+- 💬 **Ask me about:** React, Node.js, Database optimization, and UI/UX best practices.
+- ⚡ **Fun Fact:** I write code that executes faster than your morning coffee kicks in.
 
-     │
-
-     ▼
-
-💡 Idea
-
-     │
-
-     ▼
-
-🎨 Design
-
-     │
-
-     ▼
-
-⚛ React
-
-     │
-
-     ▼
-
-✨ Animation
-
-     │
-
-     ▼
-
-📱 Responsive
-
-     │
-
-     ▼
-
-🚀 Deploy
---- # <div align="center">🔥 FEATURED PROJECTS</div> <!-- After creating projects replace #### with repository links --> | Project | Live | |----------|------| | 🌌 Cyber Portfolio | #### | | 🚗 Car Dealership | #### | | 💼 Business Website | #### | | ⚡ Landing Page | #### | | 🎨 React UI | #### | | 🌍 More Projects... | #### | --- # <div align="center">📷 GALLERY</div> <!-- Create folder /assets/projects Put screenshots project1.png project2.png project3.png --> <p align="center"> <img src="./assets/projects/project1.png" width="32%"/> <img src="./assets/projects/project2.png" width="32%"/> <img src="./assets/projects/project3.png" width="32%"/> </p> --- # <div align="center">📫 CONNECT</div> <p align="center"> <a href="https://github.com/Sifathossensuvo"> <img src="https://skillicons.dev/icons?i=github"/> </a> &nbsp;&nbsp; <a href="#"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> &nbsp;&nbsp; <a href="#"> <img src="https://skillicons.dev/icons?i=discord"/> </a> &nbsp;&nbsp; <a href="#"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> </p> --- # <div align="center">⚡ MY MOTTO</div> <div align="center"> > "Code Less. Think More." > "Design Before Development." > "Build Experiences, Not Pages." </div> --- <!-- Footer Image Put Here /assets/footer.png Recommended 1920x300 --> <p align="center"> <img src="./assets/footer.png" width="100%"/> </p>
+---
