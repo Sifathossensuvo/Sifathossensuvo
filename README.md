@@ -1,249 +1,57 @@
-<!-- ========================================================= -->
-<!--                     CYBER HERO                            -->
-<!-- ========================================================= -->
+<!-- ========================================================= --> <!-- ███████╗██╗███████╗ █████╗ ████████╗ --> <!-- ██╔════╝██║██╔════╝██╔══██╗╚══██╔══╝ --> <!-- ███████╗██║█████╗ ███████║ ██║ --> <!-- ╚════██║██║██╔══╝ ██╔══██║ ██║ --> <!-- ███████║██║██║ ██║ ██║ ██║ --> <!-- ╚══════╝╚═╝╚═╝ ╚═╝ ╚═╝ ╚═╝ --> <!-- ========================================================= --> <!-- ========================================================= --> <!-- CUSTOM BANNER --> <!-- ========================================================= --> <!-- 📁 STEP 1 Create this folder inside your repository /assets Put your banner image here /assets/banner.png Recommended Size 1920 × 700 or 1600 × 600 Cyber Black Neon Green --> <p align="center"> <img src="./assets/banner.png" width="100%"/> </p> --- <div align="center"> # <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Hi+I'm+Sifat+Hossen+Suvo;Frontend+Developer;React+Developer;Three.js+Developer;Building+Cinematic+Web+Experiences;Welcome+To+My+Github" /> </div> --- <div align="center"> ## ⚡ Frontend Developer From Bangladesh 🇧🇩 Building immersive digital experiences with modern web technologies. </div> --- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sifathossensuvo&style=for-the-badge&color=39ff14"/> <img src="https://img.shields.io/github/followers/Sifathossensuvo?style=for-the-badge&color=39ff14"/> <img src="https://img.shields.io/github/stars/Sifathossensuvo?style=for-the-badge&color=39ff14"/> </p> --- # <div align="center">👨‍💻 ABOUT ME</div>
+yaml
+Name:        Sifat Hossen Suvo
 
-<!--
+Country:     Bangladesh
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Role:        Frontend Developer
 
-📁 CREATE
+Focus:       Modern UI
 
-assets/
+Passion:     Interactive Experiences
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Learning:    React • Three.js
 
-banner.gif
+Mission:     Build Websites People Never Forget
 
-1920x720
+Status:      Always Improving
+--- # <div align="center">⚡ TECH STACK</div> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,git,github,vscode,figma,npm&theme=dark"/> </p> --- # <div align="center">🚀 CURRENTLY LEARNING</div> <p align="center"> <img src="https://skillicons.dev/icons?i=threejs,nextjs,ts,redux,firebase,mongodb&theme=dark"/> </p> --- # <div align="center">⚔️ DEVELOPER STATS</div> <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sifathossensuvo&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=000000"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sifathossensuvo&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=000000"/> </p> --- <p align="center"> <img width="100%" src="https://streak-stats.demolab.com?user=Sifathossensuvo&theme=chartreuse-dark&hide_border=true&background=000000"/> </p> --- <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sifathossensuvo&theme=chartreuse-dark&bg_color=000000&hide_border=true"/> </p> --- # <div align="center">🏆 GITHUB TROPHIES</div> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sifathossensuvo&theme=matrix&margin-w=20&margin-h=20&no-frame=true"/> </p> --- # <div align="center">💻 MY WORKFLOW</div>
+text
+☕ Coffee
 
-Animated Cyber Banner
+     │
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     ▼
 
--->
+💡 Idea
 
-<br><br><br><br><br>
+     │
 
-<p align="center">
+     ▼
 
-<img src="./assets/banner.gif" width="100%"/>
+🎨 Design
 
-</p>
+     │
 
-<br><br><br><br><br>
+     ▼
 
-<p align="center">
+⚛ React
 
-<img src="./assets/glow-divider.gif" width="70%"/>
+     │
 
-</p>
+     ▼
 
-<!--
+✨ Animation
 
-assets/glow-divider.gif
+     │
 
--->
+     ▼
 
-<br><br><br><br>
+📱 Responsive
 
-<h1 align="center">
+     │
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=2500&pause=1200&color=39FF14&center=true&vCenter=true&width=1100&height=80&lines=Hi+I'm+Sifat+Hossen+Suvo;Frontend+Developer;React+Developer;Three.js+Developer;Creative+UI+Designer;Building+Cinematic+Web+Experiences"/>
+     ▼
 
-</h1>
-
-<br><br><br>
-
-<h3 align="center">
-
-⚡ Frontend Developer From Bangladesh ⚡
-
-</h3>
-
-<br>
-
-<p align="center">
-
-Creating Premium Digital Experiences
-
-</p>
-
-<br><br><br>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sifathossensuvo&style=for-the-badge&color=39ff14"/>
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/github/followers/Sifathossensuvo?style=for-the-badge&color=39ff14"/>
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/github/stars/Sifathossensuvo?style=for-the-badge&color=39ff14"/>
-
-</p>
-
-<br><br><br><br><br>
-
-<p align="center">
-
-<img src="./assets/divider1.svg" width="100%"/>
-
-</p>
-
-<br><br><br><br><br>
-
-<h1 align="center">
-
-👨‍💻 ABOUT ME
-
-</h1>
-
-<br><br><br>
-
-<p align="center">
-
-<img src="./assets/about-card.png" width="700"/>
-
-</p>
-
-<!--
-
-assets/about-card.png
-
-Transparent PNG
-
-Cyber Glass Card
-
--->
-
-<br><br><br>
-
-<div align="center">
-
-```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-NAME      : SIFAT HOSSEN SUVO
-
-ROLE      : FRONTEND DEVELOPER
-
-COUNTRY   : BANGLADESH
-
-FOCUS     : MODERN UI
-
-PASSION   : INTERACTIVE EXPERIENCES
-
-LEARNING  : REACT • THREE.JS
-
-MISSION   : BUILD WEBSITES PEOPLE NEVER FORGET
-
-STATUS    : KEEP IMPROVING
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-<br><br><br><br><br>
-
-<p align="center">
-
-<img src="./assets/divider2.svg" width="100%"/>
-
-</p>
-
-<br><br><br><br><br>
-
-<h1 align="center">
-
-⚡ TECH STACK
-
-</h1>
-
-<br><br><br>
-
-<p align="center">
-
-<img src="./assets/skills-title.png" width="350"/>
-
-</p>
-
-<!--
-
-assets/skills-title.png
-
--->
-
-<br><br>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,figma,npm&theme=dark"/>
-
-</p>
-
-<br><br><br>
-
-<p align="center">
-
-<img src="./assets/tech-bg.png" width="900"/>
-
-</p>
-
-<!--
-
-assets/tech-bg.png
-
--->
-
-<br><br><br><br>
-
-<p align="center">
-
-<img src="./assets/glow-divider.gif" width="70%"/>
-
-</p>
-
-<br><br><br><br>
-
-<h2 align="center">
-
-🚀 CURRENTLY LEARNING
-
-</h2>
-
-<br><br>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=threejs,nextjs,ts,redux,astro,webpack&theme=dark"/>
-
-</p>
-
-<br><br><br>
-
-<p align="center">
-
-<img src="./assets/terminal.gif" width="850"/>
-
-</p>
-
-<!--
-
-assets/terminal.gif
-
-Animated Cyber Terminal
-
--->
-
-<br><br><br><br><br>
-
-<p align="center">
-
-<img src="./assets/divider3.svg" width="100%"/>
-
-</p>
-
-<br><br><br><br><br>
+🚀 Deploy
+--- # <div align="center">🔥 FEATURED PROJECTS</div> <!-- After creating projects replace #### with repository links --> | Project | Live | |----------|------| | 🌌 Cyber Portfolio | #### | | 🚗 Car Dealership | #### | | 💼 Business Website | #### | | ⚡ Landing Page | #### | | 🎨 React UI | #### | | 🌍 More Projects... | #### | --- # <div align="center">📷 GALLERY</div> <!-- Create folder /assets/projects Put screenshots project1.png project2.png project3.png --> <p align="center"> <img src="./assets/projects/project1.png" width="32%"/> <img src="./assets/projects/project2.png" width="32%"/> <img src="./assets/projects/project3.png" width="32%"/> </p> --- # <div align="center">📫 CONNECT</div> <p align="center"> <a href="https://github.com/Sifathossensuvo"> <img src="https://skillicons.dev/icons?i=github"/> </a> &nbsp;&nbsp; <a href="#"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> &nbsp;&nbsp; <a href="#"> <img src="https://skillicons.dev/icons?i=discord"/> </a> &nbsp;&nbsp; <a href="#"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> </p> --- # <div align="center">⚡ MY MOTTO</div> <div align="center"> > "Code Less. Think More." > "Design Before Development." > "Build Experiences, Not Pages." </div> --- <!-- Footer Image Put Here /assets/footer.png Recommended 1920x300 --> <p align="center"> <img src="./assets/footer.png" width="100%"/> </p>
