@@ -1,10 +1,51 @@
-<!-- ========================= -->
-<!--        CYBER HERO         -->
-<!-- ========================= -->
+<!-- ========================================================= -->
+<!--                  ███████╗██╗███████╗ █████╗ ████████╗      -->
+<!--                  ██╔════╝██║██╔════╝██╔══██╗╚══██╔══╝      -->
+<!--                  ███████╗██║█████╗  ███████║   ██║         -->
+<!--                  ╚════██║██║██╔══╝  ██╔══██║   ██║         -->
+<!--                  ███████║██║██║     ██║  ██║   ██║         -->
+<!--                  ╚══════╝╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝         -->
+<!-- ========================================================= -->
+
+<!-- ========================================================= -->
+<!--                    CUSTOM BANNER                          -->
+<!-- ========================================================= -->
+
+<!--
+📁 STEP 1
+
+Create this folder inside your repository
+
+/assets
+
+Put your banner image here
+
+/assets/banner.png
+
+Recommended Size
+
+1920 × 700
+
+or
+
+1600 × 600
+
+Cyber Black
+Neon Green
+
+-->
+
+<p align="center">
+
+<img src="./assets/banner.png" width="100%"/>
+
+</p>
+
+---
 
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sifat+Hossen+Suvo;Frontend+Developer;React+Developer;Three.js+Developer;Building+Modern+Web+Experiences" />
+# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Hi+I'm+Sifat+Hossen+Suvo;Frontend+Developer;React+Developer;Three.js+Developer;Building+Cinematic+Web+Experiences;Welcome+To+My+Github" />
 
 </div>
 
@@ -14,407 +55,259 @@
 
 ## ⚡ Frontend Developer From Bangladesh 🇧🇩
 
-Crafting premium, cinematic, interactive web experiences with modern technologies.
+Building immersive digital experiences with modern web technologies.
 
 </div>
 
 ---
 
-<div align="center">
+<p align="center">
 
-![](https://komarev.com/ghpvc/?username=Sifathossensuvo&label=PROFILE+VIEWS&color=39ff14&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Sifathossensuvo&style=for-the-badge&color=39ff14"/>
 
-![](https://img.shields.io/github/followers/Sifathossensuvo?logo=github&style=for-the-badge&color=39ff14)
+<img src="https://img.shields.io/github/followers/Sifathossensuvo?style=for-the-badge&color=39ff14"/>
 
-![](https://img.shields.io/github/stars/Sifathossensuvo?logo=github&style=for-the-badge&color=39ff14)
+<img src="https://img.shields.io/github/stars/Sifathossensuvo?style=for-the-badge&color=39ff14"/>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+# <div align="center">👨‍💻 ABOUT ME</div>
 
-## 💚 About Me
+```yaml
+Name:        Sifat Hossen Suvo
 
-</div>
+Country:     Bangladesh
 
-```txt
-⚡ Frontend Developer
+Role:        Frontend Developer
 
-💻 React Enthusiast
+Focus:       Modern UI
 
-🌌 Three.js Explorer
+Passion:     Interactive Experiences
 
-🎨 UI / UX Lover
+Learning:    React • Three.js
 
-🚀 Building Modern Web Experiences
+Mission:     Build Websites People Never Forget
 
-🔥 Always Learning Something New
+Status:      Always Improving
 ```
 
 ---
 
-<div align="center">
+# <div align="center">⚡ TECH STACK</div>
 
-# ⚔️ CURRENT MISSION
+<p align="center">
 
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,git,github,vscode,figma,npm&theme=dark"/>
 
-```diff
-+ Become One Of The Best Frontend Developers
-
-+ Build Stunning Web Experiences
-
-+ Master React Ecosystem
-
-+ Master Three.js
-
-+ Work With International Clients
-
-+ Create Products People Love
-```
+</p>
 
 ---
 
-<div align="center">
+# <div align="center">🚀 CURRENTLY LEARNING</div>
 
-# 💚 MOTTO
+<p align="center">
 
-### "Don't Just Build Websites. Build Experiences."
+<img src="https://skillicons.dev/icons?i=threejs,nextjs,ts,redux,firebase,mongodb&theme=dark"/>
 
-</div>
-
----
-<!-- ========================= -->
-<!--       PART 2 - SKILLS     -->
-<!-- ========================= -->
-
-# <div align="center">⚡ Tech Arsenal</div>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,figma,npm&theme=dark" />
-
-</div>
+</p>
 
 ---
 
-# <div align="center">🚀 Currently Learning</div>
+# <div align="center">⚔️ DEVELOPER STATS</div>
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,threejs,ts,redux,vercel,netlify&theme=dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sifathossensuvo&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=000000"/>
 
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sifathossensuvo&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=000000"/>
 
----
-
-# <div align="center">💻 Frontend Stack</div>
-
-| Technology | Level |
-|------------|:------:|
-| HTML5 | ██████████ |
-| CSS3 | ██████████ |
-| JavaScript | █████████░ |
-| React | ████████░░ |
-| Tailwind CSS | █████████░ |
-| Three.js | ██████░░░░ |
-| Framer Motion | ███████░░░ |
-| Git & GitHub | ████████░░ |
+</p>
 
 ---
 
-# <div align="center">⚙️ Development Tools</div>
+<p align="center">
 
-<div align="center">
+<img width="100%" src="https://streak-stats.demolab.com?user=Sifathossensuvo&theme=chartreuse-dark&hide_border=true&background=000000"/>
 
-💻 VS Code
-
-🌐 Chrome DevTools
-
-🎨 Figma
-
-⚡ Vite
-
-📦 npm
-
-🔧 Git
-
-🐙 GitHub
-
-</div>
+</p>
 
 ---
 
-# <div align="center">🎯 What I Love Building</div>
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sifathossensuvo&theme=chartreuse-dark&bg_color=000000&hide_border=true"/>
+
+</p>
+
+---
+
+# <div align="center">🏆 GITHUB TROPHIES</div>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sifathossensuvo&theme=matrix&margin-w=20&margin-h=20&no-frame=true"/>
+
+</p>
+
+---
+
+# <div align="center">💻 MY WORKFLOW</div>
 
 ```text
-🟢 Modern UI
+☕ Coffee
 
-🟢 Animated Websites
+     │
 
-🟢 Interactive Experiences
+     ▼
 
-🟢 Landing Pages
-
-🟢 Portfolio Websites
-
-🟢 Business Websites
-
-🟢 React Applications
-
-🟢 Three.js Experiences
-
-🟢 Responsive Design
-
-🟢 High Performance UI
-```
-
----
-
-# <div align="center">🔥 Developer Mindset</div>
-
-```text
-✔ Clean Code
-
-✔ Performance First
-
-✔ Pixel Perfect UI
-
-✔ Responsive Design
-
-✔ Continuous Learning
-
-✔ Problem Solving
-
-✔ User Experience
-
-✔ Modern Web Standards
-```
-
----
-<!-- ========================= -->
-<!--     PART 3 - GITHUB       -->
-<!-- ========================= -->
-
-# <div align="center">📊 GitHub Analytics</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sifathossensuvo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sifathossensuvo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
-
-</div>
-
----
-
-# <div align="center">🔥 GitHub Streak</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sifathossensuvo&theme=chartreuse-dark&hide_border=true&background=000000"/>
-
-</div>
-
----
-
-# <div align="center">📈 Contribution Graph</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sifathossensuvo&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
-
-</div>
-
----
-
-# <div align="center">🏆 GitHub Trophies</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sifathossensuvo&theme=matrix&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-
-</div>
-
----
-
-# <div align="center">⚡ Contribution Stats</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sifathossensuvo&theme=github_dark"/>
-
-</div>
-
----
-
-# <div align="center">📅 Productive Time</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sifathossensuvo&theme=github_dark&utcOffset=6"/>
-
-</div>
-
----
-
-# <div align="center">💚 Profile Summary</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sifathossensuvo&theme=github_dark"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sifathossensuvo&theme=github_dark"/>
-
-</div>
-
----
-<!-- ========================= -->
-<!--   PART 4 - FEATURED WORK  -->
-<!-- ========================= -->
-
-# <div align="center">🚀 Featured Projects</div>
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌌 Cyber Portfolio | Interactive Premium Portfolio Experience | React • Three.js |
-| 🚗 Car Dealership | Modern Business Website | React • Tailwind |
-| ⚡ Landing Pages | High Converting Landing Pages | HTML • CSS • JS |
-| 🎨 UI Components | Reusable Modern Components | React |
-| 📱 Responsive Websites | Mobile First Development | CSS • Tailwind |
-| 💼 Client Projects | Professional Web Solutions | Modern Stack |
-
-</div>
-
----
-
-# <div align="center">⚙️ Development Workflow</div>
-
-```text
 💡 Idea
 
-      │
+     │
 
-      ▼
+     ▼
 
-🎨 UI Design
+🎨 Design
 
-      │
+     │
 
-      ▼
+     ▼
 
-⚛ React Development
+⚛ React
 
-      │
+     │
 
-      ▼
+     ▼
 
 ✨ Animation
 
-      │
+     │
 
-      ▼
+     ▼
 
 📱 Responsive
 
-      │
+     │
 
-      ▼
+     ▼
 
-🚀 Optimization
-
-      │
-
-      ▼
-
-🌍 Deployment
+🚀 Deploy
 ```
 
 ---
 
-# <div align="center">🎯 Services</div>
+# <div align="center">🔥 FEATURED PROJECTS</div>
 
-```diff
-+ Responsive Websites
+<!--
 
-+ React Applications
+After creating projects
 
-+ Landing Pages
+replace #### with repository links
 
-+ Business Websites
+-->
 
-+ Portfolio Websites
-
-+ Modern UI Development
-
-+ Interactive Animations
-
-+ Performance Optimization
-
-+ Website Redesign
-```
+| Project | Live |
+|----------|------|
+| 🌌 Cyber Portfolio | #### |
+| 🚗 Car Dealership | #### |
+| 💼 Business Website | #### |
+| ⚡ Landing Page | #### |
+| 🎨 React UI | #### |
+| 🌍 More Projects... | #### |
 
 ---
 
-# <div align="center">🧠 My Coding Philosophy</div>
+# <div align="center">📷 GALLERY</div>
 
-> Write Clean Code.
+<!--
 
-> Build Beautiful Interfaces.
+Create folder
 
-> Focus On User Experience.
+/assets/projects
 
-> Keep Learning Every Day.
+Put screenshots
 
-> Never Stop Improving.
+project1.png
 
----
+project2.png
 
-# <div align="center">🎯 2026 Goals</div>
+project3.png
 
-```text
-🏆 Become an Expert React Developer
+-->
 
-🌌 Master Three.js
+<p align="center">
 
-🚀 Build World-Class Websites
+<img src="./assets/projects/project1.png" width="32%"/>
 
-🌍 Work With Global Clients
+<img src="./assets/projects/project2.png" width="32%"/>
 
-💼 Complete 100+ Projects
+<img src="./assets/projects/project3.png" width="32%"/>
 
-📚 Learn New Technologies Every Year
-
-❤️ Help Other Developers
-
-⚡ Keep Shipping Amazing Products
-```
+</p>
 
 ---
 
-# <div align="center">💻 Workspace</div>
+# <div align="center">📫 CONNECT</div>
 
-```text
-💻 VS Code
+<p align="center">
 
-🖥 Windows
+<a href="https://github.com/Sifathossensuvo">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-🌐 Chrome DevTools
+&nbsp;&nbsp;
 
-⚡ Vite
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-🎨 Figma
+&nbsp;&nbsp;
 
-🐙 GitHub
+<a href="#">
+<img src="https://skillicons.dev/icons?i=discord"/>
+</a>
 
-☕ Coffee
+&nbsp;&nbsp;
 
-🎵 Music
-```
+<a href="#">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
+
+# <div align="center">⚡ MY MOTTO</div>
+
+<div align="center">
+
+> "Code Less. Think More."
+
+> "Design Before Development."
+
+> "Build Experiences, Not Pages."
+
+</div>
+
+---
+
+<!--
+
+Footer Image
+
+Put Here
+
+/assets/footer.png
+
+Recommended
+
+1920x300
+
+-->
+
+<p align="center">
+
+<img src="./assets/footer.png" width="100%"/>
+
+</p>
