@@ -1,123 +1,38 @@
-<!-- ========================================================= -->
-<!--                  2026 CYBER HEADER v1                     -->
-<!-- ========================================================= -->
-
-<!--
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-CREATE THIS STRUCTURE
-
-assets/
-│
-├── header/
-│     ├── banner.gif          (1920x750)
-│     ├── cyber-line.gif
-│     ├── logo.png
-│     └── glow.png
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
--->
-
-<br><br><br><br><br><br>
-
 <p align="center">
-
-<img src="./assets/header/banner.gif" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/type/rect?color=0d1117&height=180&section=header&text=SIFAT%20HOSSEN%20SHUVO&fontSize=50&fontColor=00ff66&animation=twinkling" width="100%" />
 </p>
 
-<br><br><br><br>
-
 <p align="center">
-
-<img src="./assets/header/cyber-line.gif" width="70%"/>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF66&center=true&vCenter=true&width=500&lines=%5B%2B%5D+FULL+STACK+WEB+DEVELOPER%3B%5B%2B%5D+UI%2FUX+ENGINEER%3B%5B%2B%5D+CLEAN+CODE+ARCHITECT" alt="Typing SVG" />
+  </a>
 </p>
 
-<br><br><br><br>
-
 <p align="center">
-
-<img src="./assets/header/logo.png" width="130"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Sifathossensuvo&label=VISITOR+LOG&color=00ff66&style=flat-square" alt="Views" />
 </p>
 
-<br>
+---
 
-<h1 align="center">
+<table align="center" width="100%" border="0" cellpadding="10">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>⚡ CORE_SPECIFICATION</h3>
+      <p>I am a professional <strong>Web Developer</strong> specializing in building highly scalable, high-performance web applications and fluid digital systems.</p>
+      <p>My focus is dedicated entirely to modern web architecture, seamless API integration, and creating responsive, pixel-perfect user interfaces that deliver exceptional performance.</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHc3d255Mm95cm15NmptMDZ5c3Qxazl5bndrM2t5cmR0b3J5MHVzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="85%" alt="Tech Loop">
+    </td>
+  </tr>
+</table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=46&pause=1000&duration=2200&color=39FF14&center=true&vCenter=true&width=1100&height=80&lines=HI+I'M+SIFAT+HOSSEN+SUVO;FRONTEND+DEVELOPER;REACT+DEVELOPER;THREE.JS+DEVELOPER;CREATING+PREMIUM+WEB+EXPERIENCES"/>
+---
 
-</h1>
+### 🌐 INFRASTRUCTURE_STATUS
 
-<br><br>
+* 🚀 **Current Stack:** Engineering core frontend modules and complex server logic.
+* 🔧 **Architecture:** Specialized in modern frameworks and optimized database structures.
+* 💬 **Inquiries:** Available for critical web development solutions.
 
-<h3 align="center">
-
-Frontend Developer • React • Three.js
-
-</h3>
-
-<br>
-
-<p align="center">
-
-Building modern, immersive and cinematic web experiences.
-
-</p>
-
-<br><br><br>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sifathossensuvo&style=for-the-badge&color=39FF14"/>
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/github/followers/Sifathossensuvo?style=for-the-badge&logo=github&color=39FF14"/>
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/github/stars/Sifathossensuvo?style=for-the-badge&logo=github&color=39FF14"/>
-
-</p>
-
-<br><br><br>
-
-<p align="center">
-
-<a href="https://github.com/Sifathossensuvo">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=39FF14"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="#">
-<img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=39FF14"/>
-</a>
-
-</p>
-
-<br><br><br><br>
-
-<p align="center">
-
-<img src="./assets/header/glow.png" width="100%"/>
-
-</p>
-
-<br><br><br><br><br>
+---
