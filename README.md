@@ -438,5 +438,113 @@ MISSION     :: KEEP BUILDING
 
 ---
 
+<div align="center">
+
+# ◈ MISSION ARCHIVE ◈
+
+### 「 CLASSIFIED PROJECT DATABASE 」
+
+<br>
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                    ACCESS LEVEL : AUTHORIZED                        ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   TOTAL MISSIONS ............. LOADING...                           ║
+║   ACTIVE PROJECTS ............ AVAILABLE                            ║
+║   STATUS ..................... CLASSIFIED                           ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<table>
+
+<tr>
+
+<td align="center" width="50%">
+
+## 🚗 LUMINA MOTORS
+
+```yaml
+STATUS:
+  COMPLETED
+
+TYPE:
+  Premium Car Dealership
+
+STACK:
+  React
+  Vite
+  Firebase
+
+MISSION:
+  Build a modern cinematic
+  dealership experience.
+```
+
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-00FF66?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+## 🌐 NEXT PROJECT
+
+```yaml
+STATUS:
+  IN PROGRESS
+
+TYPE:
+  Secret Mission
+
+STACK:
+  React
+  Node.js
+  MongoDB
+
+MISSION:
+  Building something
+  extraordinary...
+```
+
+<a href="#">
+<img src="https://img.shields.io/badge/COMING_SOON-111111?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MISSION LOG
+
+✔ Build.
+✔ Improve.
+✔ Learn.
+✔ Repeat.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<br>
+
+> ### **"Every finished project unlocks the next challenge."**
+
+</div>
+
+---
+
+
 
 
