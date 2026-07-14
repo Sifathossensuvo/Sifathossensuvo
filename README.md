@@ -273,3 +273,101 @@ Rule:
 </div>
 
 
+<div align="center">
+
+# ◈ TECH ARSENAL ◈
+
+### 「 SYSTEM WEAPON INVENTORY 」
+
+<br>
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                    DEVELOPER ARSENAL INITIALIZED                    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  PRIMARY WEAPONS                                                    ║
+║  ▸ HTML5                                                            ║
+║  ▸ CSS3                                                             ║
+║  ▸ JavaScript (ES6+)                                                ║
+║  ▸ React                                                            ║
+║  ▸ Vite                                                             ║
+║                                                                      ║
+║  SECONDARY WEAPONS                                                  ║
+║  ▸ Tailwind CSS                                                     ║
+║  ▸ Firebase                                                         ║
+║  ▸ Git & GitHub                                                     ║
+║  ▸ Figma                                                            ║
+║                                                                      ║
+║  CURRENT RESEARCH                                                   ║
+║  ▸ Node.js                                                          ║
+║  ▸ Express.js                                                       ║
+║  ▸ MongoDB                                                          ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,figma,npm&perline=5" />
+
+<br><br>
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+### ⚔ FRONTEND
+
+```yaml
+HTML5
+CSS3
+JavaScript
+React
+Vite
+```
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛠 TOOLS
+
+```yaml
+Git
+GitHub
+VS Code
+Figma
+NPM
+```
+
+</td>
+
+<td align="center" width="33%">
+
+### 📡 LEARNING
+
+```yaml
+Node.js
+Express.js
+MongoDB
+REST API
+```
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+> ### **"The right tools don't make great developers. The mindset does."**
+
+</div>
+
+---
+
+
