@@ -170,3 +170,106 @@ Rule:
 
 ---
 
+<div align="center">
+
+# ◈ DIGITAL PROFILE ◈
+
+### 「 DEVELOPER DATABASE LOADED 」
+
+<br>
+
+<table>
+
+<tr>
+
+<td align="center">
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│   👤 NAME                                    │
+│                                              │
+│   SIFAT HOSSEN SUVO                          │
+│                                              │
+│   Front-End Developer                        │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+</td>
+
+<td align="center">
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│   🧠 SPECIALIZATION                           │
+│                                              │
+│   • React                                    │
+│   • JavaScript                               │
+│   • Responsive UI                            │
+│   • Creative Interfaces                      │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│   ⚡ CURRENTLY                               │
+│                                              │
+│   Building premium                           │
+│   web experiences                            │
+│   while learning                             │
+│   Full Stack Development.                    │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+</td>
+
+<td align="center">
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│   🚀 VISION                                  │
+│                                              │
+│   Build products                             │
+│   people enjoy using,                        │
+│   contribute to                              │
+│   open source,                               │
+│   and never stop learning.                   │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   "Code is the tool.
+    Creativity is the weapon.
+    Consistency is the superpower."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+
