@@ -668,7 +668,7 @@ Connect for professional networking, development opportunities and collaboration
 
 <br/>
 
-<a href="YOUR_LINKEDIN_PROFILE_URL">
+<a href="https://www.linkedin.com/in/sifat-hossen-shuvo-a1a53241b/">
 <img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=050505" />
 </a>
 
@@ -724,7 +724,7 @@ Follow along for updates, creative experiments and moments from my development j
 
 <br/>
 
-<a href="YOUR_FACEBOOK_PROFILE_URL">
+<a href="https://www.facebook.com/profile.php?id=61591768663580">
 <img src="https://img.shields.io/badge/OPEN_SOCIAL_CHANNEL-00FF41?style=for-the-badge&logo=facebook&logoColor=000000&labelColor=050505" />
 </a>
 
@@ -751,7 +751,7 @@ Have a project idea, collaboration proposal or a development question? Reach out
 
 <br/>
 
-<a href="mailto:YOUR_EMAIL_ADDRESS">
+<a href="mailto:sifahossensuvo@gmail.com">
 <img src="https://img.shields.io/badge/TRANSMIT_MESSAGE-00FF41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=050505" />
 </a>
 
