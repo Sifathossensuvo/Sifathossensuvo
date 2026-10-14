@@ -22,19 +22,12 @@
 
 </div>
 
----
 
 ---
 
 ---
 
-
-
 ---
-
-
----
-
  <!-- ☠️ 01 // ABOUT THE OPERATOR -->
 
 <div align="center">
