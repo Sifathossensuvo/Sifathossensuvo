@@ -425,8 +425,6 @@ Transforming concepts into custom digital experiences designed around real proje
 
 <img src="https://img.shields.io/badge/04-PROJECT_VAULT-00FF41?style=for-the-badge&labelColor=050505" />
 
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=ACCESSING+CLASSIFIED+DATABASE...;DECRYPTING+PROJECT+ARCHIVES...;TARGETS+ACQUIRED+%2F%2F+VAULT+UNLOCKED." />
 
 <br/>
