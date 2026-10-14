@@ -42,7 +42,7 @@
 
 <h2>☠️ SIFAT HOSSEN SHUVO</h2>
 
-<code>FULL-STACK DEVELOPER // DIGITAL BUILDER</code>
+<code>MERN-STACK DEVELOPER  //  AI SPELIEST</code>
 
 <br/><br/>
 
