@@ -1,60 +1,105 @@
 
-<!-- =====================================================
-     SHUVO // HERO SECTION
-     CYBERPUNK × ANIME × NEON GREEN
-====================================================== -->
+<!-- ================= SHUVO // HERO ================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:010402,20:031B0D,50:07542D,75:00B85B,100:010402&fontColor=E8FFF0&fontSize=42&fontAlignY=45&animation=fadeIn&stroke=00FF9C&strokeWidth=1" alt="Neon cyberpunk header"/>
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2200&pause=500&color=00FF9C&center=true&vCenter=true&width=650&lines=%5BSYSTEM+ONLINE%5D;%5BIDENTITY+VERIFIED%5D;%5BDEVELOPER+PROFILE+INITIALIZED%5D" alt="System initialization"/>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=55&color=030805&text=SIFAT%20HOSSEN%20SHUVO&fontSize=30&fontColor=E8FFF0&fontAlignY=55&stroke=00FF9C&strokeWidth=1" alt="Sifat Hossen Shuvo"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2000&pause=700&color=00FF9C&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;%3C+CODE+%2F%3E+CREATE+%2F%3E+EVOLVE;ENGINEERING+DIGITAL+EXPERIENCES" alt="Animated developer title"/>
-
-<br/>
-
-<sub>◈ BANGLADESH &nbsp; / &nbsp; WEB ENGINEERING &nbsp; / &nbsp; CREATIVE TECHNOLOGY</sub>
-
-<br/><br/>
-
-<a href="https://github.com/Sifathossensuvo?tab=repositories">
-<img src="https://img.shields.io/badge/%E2%96%B6_EXPLORE_PROJECTS-00FF9C?style=for-the-badge&logoColor=00140B" alt="Explore projects"/>
-</a>
-&nbsp;
-<a href="https://shhomepage.netlify.app/">
-<img src="https://img.shields.io/badge/%E2%97%88_LAUNCH_MY_HOMEPAGE-07130C?style=for-the-badge&logo=googlechrome&logoColor=00FF9C" alt="Launch homepage"/>
-</a>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,tailwind,figma,git&theme=dark" alt="Developer technology stack"/>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF9C" alt="Neon divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=18&color=00FF9C" alt="Neon top line"/>
 
 <table>
 <tr>
-<td width="55%" valign="middle">
+<td width="58%" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2500&pause=600&color=00FF9C&width=350&lines=%24+whoami;%3E+Sifat+Hossen+Shuvo;%24+current_mission;%3E+Build+something+extraordinary;%24+philosophy;%3E+Better+Code.+Bigger+Dreams." alt="Developer terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=1800&pause=500&color=00FF9C&width=250&lines=HELLO%2C+I'M+%5B+SHUVO+%5D;INITIALIZING+DEVELOPER+PROFILE..." alt="Introduction"/>
+
+# SIFAT HOSSEN
+
+# <span style="color:#00FF9C">SHUVO //</span>
+
+**F U L L &nbsp; S T A C K &nbsp; D E V E L O P E R**
+
+I build modern web applications, interactive experiences, and digital products that solve real problems and create meaningful impact.
+
+<br/>
+
+<a href="https://github.com/Sifathossensuvo?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-00FF9C?style=for-the-badge&logo=github&logoColor=00140B" alt="Explore projects"/>
+</a>
+
+<a href="https://shhomepage.netlify.app/">
+<img src="https://img.shields.io/badge/OPEN_HOMEPAGE-03160C?style=for-the-badge&logo=googlechrome&logoColor=00FF9C" alt="Open homepage"/>
+</a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,tailwind,git,figma&theme=dark" alt="Technology stack"/>
 
 </td>
-<td width="45%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/13HgwGsXl08Zq8/giphy.gif" width="100%" alt="Animated coding scene"/>
+<td width="42%" align="center" valign="middle">
+
+<img width="100%" src="https://media.giphy.com/media/13HgwGsXl08Zq8/giphy.gif" alt="Developer coding animation"/>
+
+<br/>
+
+<table>
+<tr>
+<td>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=11&duration=2200&pause=500&color=36FFB0&width=280&lines=%24+whoami;%3E+Sifat+Hossen+Shuvo;%24+status;%3E+Building+the+future...;%24+mission;%3E+Better+Code.+Bigger+Dreams." alt="Hacker terminal"/>
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=35&color=030805&fontColor=00FF9C&fontSize=12&text=DESIGN+WITH+INTENT+%2F%2F+ENGINEER+WITH+PURPOSE+%2F%2F+KEEP+EVOLVING&stroke=12442B&strokeWidth=1" alt="Developer philosophy"/>
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF9C" alt="Neon separator"/>
+
+<table>
+<tr>
+<td align="center">
+
+<sub>◈ &nbsp; SYSTEM</sub>
+
+<br/>
+
+**ONLINE**
+
+</td>
+<td align="center">
+
+<sub>⌘ &nbsp; LOCATION</sub>
+
+<br/>
+
+**BANGLADESH**
+
+</td>
+<td align="center">
+
+<sub>⚡ &nbsp; FOCUS</sub>
+
+<br/>
+
+**WEB / AI**
+
+</td>
+<td align="center">
+
+<sub>↗ &nbsp; MINDSET</sub>
+
+<br/>
+
+**KEEP EVOLVING**
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=32&color=030805&fontColor=00FF9C&fontSize=12&text=CODE+%2F%2F+CREATE+%2F%2F+ANIMATE+%2F%2F+INNOVATE&stroke=12442B&strokeWidth=1" alt="Developer motto"/>
 
 </div>
 
-<!-- END OF HERO SECTION -->
+<!-- =============== END HERO SECTION =============== -->
