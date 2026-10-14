@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-[ ACCESS PORTFOLIO ↗ ](https://programmer-shuvo.vercel.app/) &nbsp; · &nbsp; [ SOURCE CODE ↗ ](https://github.com/Sifathossensuvo?tab=repositories)
+[ PORTFOLIO WEBSITE ↗ ](https://programmer-shuvo.vercel.app/) &nbsp; · &nbsp; [ ALL REPOSITORY ↗ ](https://github.com/Sifathossensuvo?tab=repositories)
 
 </div>
 
