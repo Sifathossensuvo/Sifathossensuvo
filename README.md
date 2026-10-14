@@ -630,7 +630,7 @@ A project focused on automating periodic requests to help keep supported web ser
 <!-- ☠️ END OF GITHUB ACTIVITY MATRIX -->
 
 
-  <!-- ☠️ 06 // CONNECT WITH THE OPERATOR -->
+ <!-- ☠️ 06 // CONNECT WITH THE OPERATOR -->
 
 <div align="center">
 
@@ -662,7 +662,7 @@ A project focused on automating periodic requests to help keep supported web ser
 
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 
-### `> LINKEDIN.NETWORK`
+<h3>LINKEDIN.NETWORK</h3>
 
 Connect for professional networking, development opportunities and collaboration.
 
@@ -672,7 +672,7 @@ Connect for professional networking, development opportunities and collaboration
 <img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=050505" />
 </a>
 
-<br/>
+<br/><br/>
 
 <code>PROTOCOL: PROFESSIONAL</code>
 
@@ -689,7 +689,7 @@ Connect for professional networking, development opportunities and collaboration
 
 <img src="https://skillicons.dev/icons?i=github&theme=dark" />
 
-### `> GITHUB.MAINFRAME`
+<h3>GITHUB.MAINFRAME</h3>
 
 Explore my repositories, inspect my projects and follow my development journey.
 
@@ -699,7 +699,7 @@ Explore my repositories, inspect my projects and follow my development journey.
 <img src="https://img.shields.io/badge/ACCESS_REPOSITORIES-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
 </a>
 
-<br/>
+<br/><br/>
 
 <code>PROTOCOL: OPEN SOURCE</code>
 
@@ -716,9 +716,9 @@ Explore my repositories, inspect my projects and follow my development journey.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FACEBOOK-00FF41?style=for-the-badge&logo=facebook&logoColor=000000&labelColor=050505" />
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" alt="Facebook Logo" />
 
-### `> FACEBOOK.NETWORK`
+<h3>FACEBOOK.NETWORK</h3>
 
 Follow along for updates, creative experiments and moments from my development journey.
 
@@ -728,7 +728,7 @@ Follow along for updates, creative experiments and moments from my development j
 <img src="https://img.shields.io/badge/OPEN_SOCIAL_CHANNEL-00FF41?style=for-the-badge&logo=facebook&logoColor=000000&labelColor=050505" />
 </a>
 
-<br/>
+<br/><br/>
 
 <code>PROTOCOL: SOCIAL</code>
 
@@ -743,19 +743,19 @@ Follow along for updates, creative experiments and moments from my development j
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=050505" />
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" alt="Gmail Logo" />
 
-### `> DIRECT.MESSAGE`
+<h3>DIRECT.MESSAGE</h3>
 
 Have a project idea, collaboration proposal or a development question? Reach out through email.
 
 <br/>
 
 <a href="mailto:YOUR_EMAIL_ADDRESS">
-<img src="https://img.shields.io/badge/TRANSMIT_MESSAGE-00FF41?style=for-the-badge&logo=minutemailer&logoColor=000000&labelColor=050505" />
+<img src="https://img.shields.io/badge/TRANSMIT_MESSAGE-00FF41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=050505" />
 </a>
 
-<br/>
+<br/><br/>
 
 <code>PROTOCOL: EMAIL</code>
 
