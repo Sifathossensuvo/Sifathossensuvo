@@ -1,195 +1,178 @@
 
 <!-- =====================================================
-     SIFAT HOSSEN SHUVO — PREMIUM GITHUB PROFILE
-     15 SECTIONS | EDITORIAL DESIGN | ANIMATED VISUALS
+  SIFAT HOSSEN SHUVO // CYBER DEVELOPER PROFILE
+  BLACK OPS / MATRIX / TERMINAL EDITION
 ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B09,50:103D26,100:00E676&height=220&section=header&text=SIFAT%20HOSSEN%20SHUVO&fontSize=37&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%2F%20CREATIVE%20BUILDER&descSize=13&descAlignY=61&descColor=D5FFE4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,35:001707,70:003B19,100:00FF41&text=SIFAT%20HOSSEN%20SHUVO&fontColor=00FF41&fontSize=38&fontAlignY=43&animation=fadeIn&stroke=00FF41&strokeWidth=1&desc=FULL%20STACK%20DEVELOPER%20%2F%20SYSTEM%20BUILDER&descSize=12&descAlignY=62&descColor=B5FFC8" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=32D583&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Digital+Experiences;Engineering+Modern+Web+Applications;Exploring+AI+%26+Creative+Technology;Learn.+Build.+Refine.+Repeat." alt="Animated introduction" />
-
-<br/>
-
-[PORTFOLIO ↗](https://shhomepage.netlify.app/) &nbsp; / &nbsp; [GITHUB ↗](https://github.com/Sifathossensuvo)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=650&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer+profile...;%3E+Full+Stack+Development+%5BACTIVE%5D;%3E+AI+Experiments+%5BIN+PROGRESS%5D;%3E+Creative+Engineering+%5BLOADING%5D;%3E+Think.+Build.+Break.+Rebuild." alt="Animated terminal introduction" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sifathossensuvo&label=PROFILE+VIEWS&color=238636&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/OPERATOR-SHUV0-00FF41?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/ENVIRONMENT-DEVELOPMENT-00FF41?style=flat-square&labelColor=050505" />
+<img src="https://komarev.com/ghpvc/?username=Sifathossensuvo&style=flat-square&color=00FF41&label=VISITORS" />
+
+<br/><br/>
+
+[ ACCESS PORTFOLIO ↗ ](https://shhomepage.netlify.app/) &nbsp; · &nbsp; [ SOURCE CODE ↗ ](https://github.com/Sifathossensuvo?tab=repositories)
 
 </div>
 
 ---
 
+## `01 // SYSTEM_BOOT`
+
+```text
+┌─────────────────────────────────────────────────────┐
+│  SHUVO.DEV :: DEVELOPER TERMINAL                    │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  USER      : Sifat Hossen Shuvo                     │
+│  ROLE      : Full Stack Developer                   │
+│  LOCATION  : Bangladesh                             │
+│  STATUS    : Building & Learning                    │
+│  INTERESTS : AI / WEB / CREATIVE TECHNOLOGY         │
+│                                                     │
+│  [OK] Developer profile initialized.                │
+│  [OK] Curiosity detected.                           │
+│  [OK] Next project: loading...                       │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+## `02 // WHOAMI`
+
+> I turn ideas into interfaces, interfaces into applications, and experiments into things people can actually use.
+
+I'm **Sifat Hossen Shuvo**, a developer from Bangladesh focused on modern web development, AI-powered applications, creative interfaces, and practical software projects.
+
+I enjoy exploring how things work, building from scratch, solving development challenges, and pushing my projects beyond ordinary templates.
+
+My mission is simple: become a stronger engineer by continuously learning, experimenting, and shipping real projects.
+
+## `03 // CORE_DIRECTIVES`
+
 <div align="center">
 
-<sub>01 — INTRODUCTION</sub>
-
-# Beyond the Code.
-
-*I build digital experiences with a focus on engineering, design, and useful technology.*
+| DIRECTIVE | OBJECTIVE |
+|:--|:--|
+| `01` | Build useful digital products |
+| `02` | Master programming fundamentals |
+| `03` | Engineer better user experiences |
+| `04` | Explore AI and automation |
+| `05` | Keep improving through real projects |
 
 </div>
 
-## 02 / ABOUT ME
-
-Hey, I'm **Sifat Hossen Shuvo**, a developer from Bangladesh passionate about building modern web applications and exploring new technologies.
-
-My journey revolves around frontend engineering, full-stack development, AI-powered applications, and creative digital experiences.
-
-I enjoy turning ideas into working products, experimenting with interfaces, and improving the small details that make software feel complete.
-
-- Building with the MERN stack
-- Exploring AI integrations and developer tools
-- Creating responsive, animated user interfaces
-- Learning through practical projects
-- Working toward stronger problem-solving and engineering skills
-
-## 03 / TECHNOLOGY UNIVERSE
+## `04 // TECHNOLOGY_MATRIX`
 
 <div align="center">
 
-### FRONTEND
+**[ FRONTEND SYSTEMS ]**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend stack" />
 
-### BACKEND & DATA
+**[ BACKEND SYSTEMS ]**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend stack" />
 
-### TOOLS & CREATIVE DEVELOPMENT
+**[ DEVELOPMENT TOOLS ]**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,figma,threejs&theme=dark" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel&theme=dark" alt="Developer tools" />
 
-</div>
+**[ CREATIVE ENGINEERING ]**
 
-## 04 / AREAS OF EXPERTISE
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01. Frontend Engineering
-
-Building responsive interfaces and reusable components with React, JavaScript, Tailwind CSS, and modern web technologies.
-
-</td>
-<td width="50%" valign="top">
-
-### 02. Backend Development
-
-Working with Node.js, Express.js, MongoDB, REST APIs, CRUD operations, and authentication concepts.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03. AI & Automation
-
-Exploring AI API integrations, prompt engineering, coding assistants, and automation projects.
-
-</td>
-<td width="50%" valign="top">
-
-### 04. Creative Technology
-
-Experimenting with UI/UX, Figma, Framer Motion, CSS animations, and Three.js.
-
-</td>
-</tr>
-</table>
-
-## 05 / FRONTEND ENGINEERING
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,css,html&theme=dark" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=figma,threejs&theme=dark" alt="Creative technologies" />
 
 </div>
 
-My frontend focus is creating interfaces that combine usability, maintainability, and thoughtful visual design.
+## `05 // FRONTEND_ENGINE`
 
-- Component-based architecture
-- Responsive layouts and mobile-first design
-- React Router and application navigation
-- API integration using Fetch and Axios
-- Interactive animations and transitions
-- Reusable UI patterns and design consistency
+```js
+const frontend = {
+  markup: ["HTML5", "Semantic HTML"],
+  styling: ["CSS3", "Tailwind CSS", "Bootstrap"],
+  language: ["JavaScript ES6+", "TypeScript"],
+  framework: ["React", "Next.js"],
+  routing: ["React Router"],
+  motion: ["Framer Motion", "CSS Animations"],
+  networking: ["Fetch", "Axios", "REST APIs"]
+};
+```
 
-## 06 / BACKEND ENGINEERING
+I focus on responsive interfaces, reusable components, thoughtful interactions, and clean application structure.
 
-<div align="center">
+## `06 // BACKEND_ENGINE`
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend technologies" />
+```js
+const backend = {
+  runtime: "Node.js",
+  framework: "Express.js",
+  database: "MongoDB",
+  services: ["Firebase", "REST APIs"],
+  operations: ["CRUD", "API Integration"],
+  authentication: ["JWT Concepts", "Firebase Auth"],
+  testing: ["Postman"],
+  objective: "Build reliable application logic"
+};
+```
 
-</div>
+My backend learning focuses on how data moves through applications, how APIs communicate, and how frontend and server-side systems work together.
 
-I work with backend technologies to understand how applications process requests, manage information, and connect different services.
+## `07 // SKILL_MODULES`
 
-- Node.js and Express.js
-- MongoDB and database operations
-- REST API integration
-- CRUD functionality
-- JWT and Firebase authentication concepts
-- Postman and API testing
-- AI service integration
-
-## 07 / CREATIVE LAB
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101713,100:173E29&height=100&section=header&text=DESIGN%20MEETS%20ENGINEERING&fontSize=19&fontColor=E5FFEF&animation=fadeIn" width="100%" />
-
-</div>
-
-I enjoy exploring the intersection of design and engineering.
-
-| Creative Area | Focus |
+| MODULE | CAPABILITIES |
 |:--|:--|
-| UI/UX | Interface structure and user experience |
-| Motion Design | Framer Motion and CSS animation |
-| Creative Web | Three.js and interactive visuals |
-| Prototyping | Figma and interface exploration |
-| AI Experiences | AI-powered application interfaces |
+| `WEB_ENGINEERING` | React, JavaScript, responsive UI |
+| `SERVER_SYSTEMS` | Node.js, Express, MongoDB |
+| `API_PROTOCOLS` | REST, Fetch, Axios, CRUD |
+| `VISUAL_LAB` | Figma, UI/UX, motion design |
+| `CREATIVE_CODE` | Three.js, interactive experiences |
+| `AI_EXPERIMENTS` | API integration, prompt engineering |
+| `DEV_WORKFLOW` | Git, GitHub, VS Code, npm |
+| `DEPLOYMENT` | Vercel and deployment workflows |
 
-## 08 / CURRENT MISSIONS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**MISSION 001**
-
-### CODE NINJA AI
-
-An AI coding assistant concept featuring a custom developer-console interface, conversation history, configurable models, and code-focused interactions.
-
-`React` · `Tailwind CSS` · `OpenRouter`
-
-</td>
-<td width="50%" valign="top">
-
-**MISSION 002**
-
-### WEBSTONE
-
-A software development agency concept focused on premium websites, modern interfaces, and practical digital solutions.
-
-`Web Development` · `UI/UX` · `Digital Products`
-
-</td>
-</tr>
-</table>
-
-Current learning priorities include JavaScript fundamentals, problem-solving, TypeScript, React architecture, and backend development.
-
-## 09 / SELECTED PROJECTS
+## `08 // ACTIVE_OPERATIONS`
 
 <div align="center">
 
-### A collection of ideas turned into code.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:001006,100:003B19&text=BUILDING%20THE%20NEXT%20THING&fontColor=00FF41&fontSize=21&animation=fadeIn" width="100%" />
+
+</div>
+
+**MISSION 01 — CODE NINJA AI**
+
+An AI coding assistant project with a custom hacker-console interface.
+
+- AI-powered coding conversations
+- Configurable models through OpenRouter
+- Conversation history and chat management
+- Code rendering and copy functionality
+- Dark interface with customizable settings
+
+`REACT` · `TAILWIND CSS` · `OPENROUTER`
+
+**MISSION 02 — SH HOMEPAGE**
+
+A custom Chrome homepage designed around a personalized browsing experience.
+
+[OPEN LIVE SYSTEM ↗](https://shhomepage.netlify.app/)
+
+**MISSION 03 — J.A.R.V.I.S. V2**
+
+An experimental Python desktop assistant exploring voice interaction, AI integration, and desktop automation.
+
+`PYTHON` · `CUSTOMTKINTER` · `GROQ`
+
+## `09 // PROJECT_DATABASE`
+
+<div align="center">
+
+*Selected experiments, applications, and development work.*
 
 </div>
 
@@ -197,172 +180,173 @@ Current learning priorities include JavaScript fundamentals, problem-solving, Ty
 <tr>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://placehold.co/640x360/080B09/32D583?text=CODE+NINJA+AI" alt="CODE NINJA AI project preview" />
+<img src="https://placehold.co/600x300/030805/00FF41?text=CODE+NINJA+AI" width="100%" alt="CODE NINJA AI" />
 
 ### CODE NINJA AI
 
-AI-powered coding assistant with a distinctive dark developer-console direction.
+AI-assisted coding experience with a terminal-inspired interface.
 
-**Stack:** React · Tailwind CSS · OpenRouter
+`AI` `REACT` `OPENROUTER`
 
 </td>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://placehold.co/640x360/101713/FFFFFF?text=WEBSTONE" alt="Webstone project preview" />
-
-### WEBSTONE
-
-Software agency concept for creating modern business websites and digital experiences.
-
-**Focus:** Web development · Design
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img width="100%" src="https://placehold.co/640x360/101713/32D583?text=SH+HOMEPAGE" alt="SH Homepage project preview" />
+<img src="https://placehold.co/600x300/030805/00FF41?text=SH+HOMEPAGE" width="100%" alt="SH Homepage" />
 
 ### SH HOMEPAGE
 
-A custom Chrome homepage built around a personalized browsing experience.
+Custom browser homepage.
 
-[OPEN LIVE PROJECT ↗](https://shhomepage.netlify.app/)
+[LAUNCH ↗](https://shhomepage.netlify.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/600x300/030805/00FF41?text=MOVIE+EXPLORER" width="100%" alt="Movie Explorer" />
+
+### MOVIE EXPLORER
+
+Movie discovery application concept using React and the TVMaze API.
+
+`REACT` `JAVASCRIPT` `API`
 
 </td>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://placehold.co/640x360/080B09/FFFFFF?text=MOVIE+EXPLORER" alt="Movie Explorer project preview" />
+<img src="https://placehold.co/600x300/030805/00FF41?text=J.A.R.V.I.S.+V2" width="100%" alt="JARVIS V2" />
 
-### MOVIE EXPLORER
+### J.A.R.V.I.S. V2
 
-A responsive movie discovery application concept using React and the TVMaze API.
+Experimental AI desktop automation assistant.
 
-**Stack:** React · JavaScript · TVMaze API
+`PYTHON` `VOICE` `AI`
 
 </td>
 </tr>
 </table>
 
-## 10 / CODE NINJA AI — DEEP DIVE
+[ EXPLORE ALL REPOSITORIES ↗ ](https://github.com/Sifathossensuvo?tab=repositories)
+
+## `10 // CODE_NINJA_AI`
+
+```text
+┌──[ CODE NINJA AI ]───────────────────────────────┐
+│                                                   │
+│  PURPOSE  : AI coding companion                   │
+│  INTERFACE: Hacker console                        │
+│  ENGINE   : React + Tailwind CSS                  │
+│  PROVIDER : OpenRouter                            │
+│                                                   │
+│  FEATURES                                         │
+│  ├── AI conversations                             │
+│  ├── Configurable language models                 │
+│  ├── Persistent chat history                      │
+│  ├── Markdown and code rendering                  │
+│  ├── Code copying and chat export                 │
+│  └── Custom themes and settings                   │
+│                                                   │
+│  STATE: Ongoing personal project                  │
+└───────────────────────────────────────────────────┘
+```
+
+The vision is to build a developer-focused AI experience that feels like a dedicated coding environment instead of another generic chatbot.
+
+## `11 // CREATIVE_LAB`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050805,100:124627&height=120&section=header&text=CODE%20NINJA%20AI&fontSize=31&fontColor=38F58A&animation=fadeIn&desc=YOUR%20IDEAS.%20INTELLIGENTLY%20ENGINEERED.&descSize=10&descColor=FFFFFF" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&width=550&lines=UI+%2F+UX+EXPERIMENTS;MOTION+%2F+INTERACTION+DESIGN;AI-POWERED+EXPERIENCES;CREATIVE+FRONTEND+ENGINEERING" alt="Creative lab animation" />
 
 </div>
 
-A coding-assistant project designed around a focused developer experience rather than a generic chatbot layout.
+I also explore the creative side of development:
 
-**Planned features**
+- Building immersive portfolio interfaces
+- Experimenting with motion and interaction
+- Designing UI concepts in Figma
+- Exploring Three.js and 3D web experiences
+- Integrating AI into useful applications
+- Creating browser tools and productivity experiences
 
-- AI-powered coding conversations
-- Configurable AI models
-- Conversation history
-- Markdown and code-block rendering
-- Copyable code snippets
-- Chat export functionality
-- Responsive hacker-console interface
-- Customizable themes and settings
+## `12 // LEARNING_PROTOCOL`
 
-**Technology direction:** React, Tailwind CSS, OpenRouter API.
+```python
+learning_protocol = {
+    "phase_01": "Strengthen JavaScript fundamentals",
+    "phase_02": "Practice problem-solving",
+    "phase_03": "Build complete React applications",
+    "phase_04": "Improve backend architecture",
+    "phase_05": "Explore TypeScript and AI",
+    "phase_06": "Refine projects and code quality",
+}
 
-## 11 / WEBSTONE — DIGITAL AGENCY
+while True:
+    learn()
+    build()
+    debug()
+    improve()
+```
+
+I believe consistent practice and real-world projects are essential to becoming a better developer.
+
+My current priorities include stronger JavaScript fundamentals, problem-solving, React architecture, TypeScript, and backend development.
+
+## `13 // GITHUB_TELEMETRY`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101820,100:214D77&height=110&section=header&text=WEBSTONE&fontSize=30&fontColor=FFFFFF&animation=fadeIn&desc=BUILDING%20DIGITAL%20PRESENCE&descSize=11&descColor=D9E9FF" width="100%" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Sifathossensuvo&show_icons=true&hide_border=true&bg_color=050805&title_color=00FF41&text_color=C7D1C9&icon_color=00FF41" alt="GitHub statistics" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sifathossensuvo&layout=compact&hide_border=true&bg_color=050805&title_color=00FF41&text_color=C7D1C9&langs_count=8" alt="Language statistics" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sifathossensuvo&bg_color=050805&color=00FF41&line=008F39&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
-Webstone represents a vision of building a professional software development agency focused on modern digital experiences.
+## `14 // DEVELOPER_MINDSET`
 
-**Core direction**
+> The terminal is just a tool. The real power is knowing what to build and why.
 
-- Business and portfolio websites
-- Responsive frontend development
-- Modern UI/UX
-- E-commerce experiences
-- Practical digital solutions
-- Long-term product development
+I am interested in engineering, design, AI, digital products, and the process of turning ambitious ideas into practical software.
 
-The goal is to create digital products that combine quality engineering with thoughtful presentation.
+I value curiosity, experimentation, consistency, and the willingness to learn from mistakes.
 
-## 12 / DEVELOPMENT JOURNEY
+I don't claim to know everything. I want to keep getting better at the things that matter.
 
-<div align="center">
+```text
+[ THINK ] -> [ DESIGN ] -> [ BUILD ] -> [ TEST ] -> [ EVOLVE ]
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=1000&color=32D583&center=true&vCenter=true&width=500&lines=Learning+the+fundamentals;Building+real-world+projects;Improving+problem-solving;Growing+one+commit+at+a+time" alt="Development journey" />
-
-</div>
-
-My development journey is built around continuous learning and practical experience.
-
-**The process**
-
-01. Strengthen programming fundamentals.
-02. Build projects that apply those fundamentals.
-03. Learn from bugs, mistakes, and implementation challenges.
-04. Improve code quality and user experience.
-05. Explore new tools when they solve real problems.
-
-My long-term focus is becoming a stronger full-stack developer who can design, build, and maintain useful software.
-
-## 13 / GITHUB ANALYTICS
+## `15 // CONNECTION_TERMINAL`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Sifathossensuvo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3CEB91&text_color=C9D1D9&icon_color=3CEB91" alt="GitHub statistics" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,45:004D20,100:000000&height=150&section=footer&animation=fadeIn" width="100%" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=500&lines=Connection+established.;Ideas+welcome.+Code+in+progress.;See+you+in+the+next+commit." alt="Animated closing terminal" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sifathossensuvo&layout=compact&hide_border=true&bg_color=0D1117&title_color=3CEB91&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sifathossensuvo&hide_border=true&background=0D1117&ring=3CEB91&fire=3CEB91&currStreakLabel=3CEB91&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sifathossensuvo&bg_color=0D1117&color=3CEB91&line=238636&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" />
-
-</div>
-
-## 14 / BEYOND THE CODE
-
-Software development is more than writing functions and connecting APIs.
-
-I enjoy exploring ideas, designing interfaces, experimenting with animation, and understanding how technology can solve everyday problems.
-
-I am also interested in product thinking, digital businesses, AI-assisted workflows, and building things that people genuinely find useful.
-
-**My philosophy:** Learn continuously. Build intentionally. Improve relentlessly.
-
-## 15 / LET'S CONNECT
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,50:123D26,100:080B09&height=150&section=footer&animation=fadeIn" width="100%" />
-
-### Have an idea worth building?
-
-I'm focused on learning, creating, and growing through real-world development.
-
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Sifathossensuvo">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" alt="GitHub" />
 </a>
+
 <a href="https://shhomepage.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=050505" alt="Portfolio" />
 </a>
 
 <br/><br/>
 
 **SIFAT HOSSEN SHUVO**
 
-`FULL STACK DEVELOPER` · `AI BUILDER` · `CREATIVE TECHNOLOGIST`
+`FULL STACK DEVELOPER` / `AI BUILDER` / `CREATIVE TECHNOLOGIST`
 
-<sub>Thanks for visiting. There's always something new to build.</sub>
+<sub>END OF TRANSMISSION — THE NEXT BUILD STARTS NOW.</sub>
 
 </div>
