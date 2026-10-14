@@ -593,3 +593,107 @@ A project focused on automating periodic requests to help keep supported web ser
 </div>
 
 <!-- ☠️ END OF PROJECT VAULT -->
+
+ <!-- ☠️ 05 // GITHUB ACTIVITY MATRIX -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/05-GITHUB_ACTIVITY_MATRIX-00FF41?style=for-the-badge&labelColor=050505" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2300&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=CONNECTING+TO+GITHUB+MAINFRAME...;ANALYZING+CONTRIBUTION+SIGNALS...;DEVELOPER+ACTIVITY+MATRIX+ONLINE." />
+
+<br/>
+
+<code>LIVE TELEMETRY // DEVELOPER PERFORMANCE MONITOR</code>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" />
+
+</div>
+
+<!-- SYSTEM METRICS -->
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sifathossensuvo&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sifathossensuvo&layout=compact&hide_border=true&bg_color=050505&title_color=00FF41&text_color=C9D1D9&langs_count=8" />
+
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION STREAK -->
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sifathossensuvo&theme=dark&hide_border=true&background=050505&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=808080" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION MATRIX -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CONTRIBUTION_MATRIX-ACTIVE-00FF41?style=flat-square&labelColor=050505" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sifathossensuvo&bg_color=050505&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=003B14&hide_border=true&custom_title=DEVELOPER%20ACTIVITY%20TIMELINE" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- PROFILE TROPHIES -->
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sifathossensuvo&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- TERMINAL STATUS -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=footer" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/01_PROFILE-TRACKING-00FF41?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/02_LANGUAGES-ANALYZING-00FF41?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/03_CONTRIBUTIONS-MONITORING-00FF41?style=flat-square&labelColor=050505" />
+
+<br/><br/>
+
+```text
+┌─────────────────────────────────────────────────────┐
+│  GITHUB MAINFRAME // SYSTEM REPORT                  │
+├─────────────────────────────────────────────────────┤
+│  OPERATOR    : SIFAT HOSSEN SHUVO                   │
+│  PLATFORM    : GITHUB                               │
+│  MONITORING  : REPOSITORIES & CONTRIBUTIONS         │
+│  MODE        : CONTINUOUS DEVELOPMENT               │
+│  DIRECTIVE   : CODE • CREATE • CONTRIBUTE           │
+└─────────────────────────────────────────────────────┘
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2400&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=EVERY+COMMIT+MOVES+THE+MISSION+FORWARD.;THE+MATRIX+NEVER+STOPS+EVOLVING.;END+OF+TELEMETRY_ " />
+
+<br/><br/>
+
+<code>☠️ DATA IS POWER // CONSISTENCY IS THE WEAPON ☠️</code>
+
+</div>
+
+<!-- ☠️ END OF GITHUB ACTIVITY MATRIX -->
+
+
