@@ -815,3 +815,36 @@ Have a project idea, collaboration proposal or a development question? Reach out
 </div>
 
 <!-- ☠️ END OF CONNECTION WITH THE OPERATOR -->
+
+ <!-- ☠️ FINAL // SYSTEM SHUTDOWN -->
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=EVERY+LINE+HAS+A+PURPOSE.;EVERY+PROJECT+HAS+A+STORY.;THE+MISSION+IS+NEVER+OVER..._ " />
+
+<br/>
+
+<code>BUILT WITH CURIOSITY · POWERED BY COFFEE · DRIVEN BY CODE</code>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-00FF41?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS_EVOLVING-00FF41?style=flat-square&labelColor=050505" />
+
+<br/><br/>
+
+<sub>☠️ DESIGNED BY SIFAT HOSSEN SHUVO · KEEP BUILDING. KEEP EVOLVING. ☠️</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=footer" />
+
+</div>
+
+<!-- ☠️ END OF TRANSMISSION -->
