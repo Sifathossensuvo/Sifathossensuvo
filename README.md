@@ -630,7 +630,7 @@ A project focused on automating periodic requests to help keep supported web ser
 <!-- ☠️ END OF GITHUB ACTIVITY MATRIX -->
 
 
- <!-- ☠️ 06 // CONNECT WITH THE OPERATOR -->
+  <!-- ☠️ 06 // CONNECT WITH THE OPERATOR -->
 
 <div align="center">
 
@@ -716,16 +716,16 @@ Explore my repositories, inspect my projects and follow my development journey.
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+<img src="https://img.shields.io/badge/FACEBOOK-00FF41?style=for-the-badge&logo=facebook&logoColor=000000&labelColor=050505" />
 
-### `> SOCIAL.FEED`
+### `> FACEBOOK.NETWORK`
 
 Follow along for updates, creative experiments and moments from my development journey.
 
 <br/>
 
-<a href="YOUR_INSTAGRAM_PROFILE_URL">
-<img src="https://img.shields.io/badge/OPEN_SOCIAL_CHANNEL-00FF41?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=050505" />
+<a href="YOUR_FACEBOOK_PROFILE_URL">
+<img src="https://img.shields.io/badge/OPEN_SOCIAL_CHANNEL-00FF41?style=for-the-badge&logo=facebook&logoColor=000000&labelColor=050505" />
 </a>
 
 <br/>
@@ -777,7 +777,11 @@ Have a project idea, collaboration proposal or a development question? Reach out
 
 <br/><br/>
 
-```text
+<table>
+<tr>
+<td align="center">
+
+<pre>
 ┌─────────────────────────────────────────────────────┐
 │  CONNECTION GATEWAY // OPERATOR PROFILE              │
 ├─────────────────────────────────────────────────────┤
@@ -788,14 +792,20 @@ Have a project idea, collaboration proposal or a development question? Reach out
 │  ENCRYPTION : README VISUAL SIMULATION              │
 │  STATUS     : AWAITING YOUR TRANSMISSION_            │
 └─────────────────────────────────────────────────────┘
-```
+</pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=GOOD+PROJECTS+START+WITH+A+CONNECTION.;LET'S+BUILD+SOMETHING+EXTRAORDINARY.;TRANSMISSION+GATEWAY+READY_ " />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=GOOD+PROJECTS+START+WITH+A+CONNECTION.;LET'S+BUILD+SOMETHING+EXTRAORDINARY.;TRANSMISSION+GATEWAY+READY_" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/CONNECT-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
-<img src="https://img.shields.io/badge/COLLABORATE-00FF41?style=for-the-badge&logo= handshake&logoColor=000000&labelColor=050505" />
+<img src="https://img.shields.io/badge/COLLABORATE-00FF41?style=for-the-badge&logo=handshake&logoColor=000000&labelColor=050505" />
 <img src="https://img.shields.io/badge/CREATE-00FF41?style=for-the-badge&logo=codeforces&logoColor=000000&labelColor=050505" />
 
 <br/><br/>
@@ -805,4 +815,3 @@ Have a project idea, collaboration proposal or a development question? Reach out
 </div>
 
 <!-- ☠️ END OF CONNECTION WITH THE OPERATOR -->
-
