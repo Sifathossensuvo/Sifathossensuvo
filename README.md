@@ -219,3 +219,200 @@ operating_mode:
 </div>
 
 <!-- ☠️ END OF SKILLS ARSENAL -->
+
+ <!-- ☠️ 03 // SERVICES.EXE -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/03-SERVICES.EXE-00FF41?style=for-the-badge&labelColor=050505" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=ESTABLISHING+SERVICE+CONNECTION...;SCANNING+DIGITAL+CAPABILITIES...;ALL+SERVICE+MODULES+INITIALIZED." />
+
+<br/>
+
+<code>DEPLOYMENT READY // DIGITAL SOLUTIONS DIVISION</code>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" />
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-FRONTEND_ENGINEERING-00FF41?style=flat-square&labelColor=050505" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
+
+</div>
+
+### `> WEB_INTERFACE.DLL`
+
+Building responsive, modern and high-performance web interfaces that turn ideas into polished digital products.
+
+- Custom React applications
+- Responsive website development
+- Modern landing pages
+- Interactive user interfaces
+
+<code>STATUS: AVAILABLE</code>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/02-FULL_STACK_SOLUTIONS-00FF41?style=flat-square&labelColor=050505" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+
+</div>
+
+### `> BACKEND.CORE`
+
+Connecting interfaces to reliable backend systems, databases and APIs for practical web applications.
+
+- REST API integration
+- CRUD application development
+- MongoDB database integration
+- Authentication integration
+
+<code>STATUS: AVAILABLE</code>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/03-UI_UX_DESIGN-00FF41?style=flat-square&labelColor=050505" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+
+</div>
+
+### `> INTERFACE.BLUEPRINT`
+
+Designing intuitive digital experiences where visual identity, usability and functionality work together.
+
+- UI/UX design
+- Website layout planning
+- Design-to-code implementation
+- Consistent visual systems
+
+<code>STATUS: AVAILABLE</code>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/04-MOTION_ENGINEERING-00FF41?style=flat-square&labelColor=050505" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,threejs,css&theme=dark" />
+
+</div>
+
+### `> MOTION.PROTOCOL`
+
+Adding purposeful motion, smooth transitions and immersive interactions to create memorable web experiences.
+
+- Framer Motion animations
+- Interactive UI elements
+- Smooth scrolling experiences
+- Creative visual effects
+
+<code>STATUS: AVAILABLE</code>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/05-AI_INTEGRATION-00FF41?style=flat-square&labelColor=050505" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,react&theme=dark" />
+
+</div>
+
+### `> INTELLIGENCE.API`
+
+Integrating AI-powered capabilities into web applications to make digital products more useful and interactive.
+
+- AI API integration
+- AI-powered chatbot interfaces
+- Prompt-based application workflows
+- Intelligent developer tools
+
+<code>STATUS: PROJECT-BASED</code>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/06-CUSTOM_WEB_SOLUTIONS-00FF41?style=flat-square&labelColor=050505" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" />
+
+</div>
+
+### `> DIGITAL.FORGE`
+
+Transforming concepts into custom digital experiences designed around real project requirements.
+
+- Portfolio websites
+- Business websites
+- Custom interactive experiences
+- Deployment and launch support
+
+<code>STATUS: LET'S DISCUSS</code>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=footer" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=HAVE+A+PROJECT%3F+LET'S+BUILD+IT.;YOUR+VISION.+MY+CODE.+ONE+MISSION." />
+
+<br/><br/>
+
+<a href="https://github.com/Sifathossensuvo">
+<img src="https://img.shields.io/badge/INITIATE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
+</a>
+
+<br/><br/>
+
+<code>END OF SERVICE MODULE // AWAITING NEXT DIRECTIVE_</code>
+
+</div>
+
+<!-- ☠️ END OF SERVICES.EXE -->
