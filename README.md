@@ -224,12 +224,14 @@ operating_mode:
 
 <div align="center">
 <br/><br/>
+
 <img src="https://img.shields.io/badge/03-SERVICES.EXE-00FF41?style=for-the-badge&labelColor=050505" />
 
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=ESTABLISHING+SERVICE+CONNECTION...;SCANNING+DIGITAL+CAPABILITIES...;ALL+SERVICE+MODULES+INITIALIZED." />
 
+<br/>
 
 <code>DEPLOYMENT READY // DIGITAL SOLUTIONS DIVISION</code>
 
