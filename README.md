@@ -26,86 +26,117 @@
 
 ---
 
+---
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=360&lines=%3E+IDENTITY+VERIFIED;%3E+LOADING+OPERATOR+PROFILE...;%3E+WELCOME+TO+MY+WORLD." alt="Animated system introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=1400&pause=350&color=00FF41&center=true&vCenter=true&width=550&lines=%3E+ACCESSING+CLASSIFIED+PROFILE...;%3E+IDENTITY+CONFIRMED%3A+SHUVO;%3E+WELCOME+TO+THE+CYBER+REALM." alt="Animated hacker boot sequence" />
 
 <br/>
 
-<table>
-<tr>
-<td>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:001A09,100:000000&height=12&section=header" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001406,100:07110A&height=8&section=header" width="100%" />
-
-### `01.01 // OPERATOR_PROFILE`
-
-# Sifat Hossen Shuvo
-
-**Full Stack Developer · AI Builder · Creative Technologist**
-
-I'm a developer from Bangladesh who loves turning ambitious ideas into functional digital experiences.
-
-My world revolves around modern web development, AI-powered applications, creative interfaces, and experiments that push beyond ordinary website design.
-
-I enjoy building from scratch, exploring new technologies, solving problems, and continuously improving my engineering skills.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1800&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=OPERATOR+%3A+SIFAT+HOSSEN+SHUVO;CODING+THE+UNKNOWN...;BEYOND+THE+LIMITS." alt="Animated operator identity" />
 
 <br/>
 
-`[ WEB ENGINEERING ]` &nbsp; `[ AI EXPERIMENTS ]` &nbsp; `[ CREATIVE CODE ]`
+<img src="https://media.giphy.com/media/13Z5kstwARnPna/giphy.gif" width="100%" alt="Anime cyberpunk hacker atmosphere" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07110A,100:001406&height=8&section=header" width="100%" />
+<br/>
 
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:003B17,100:000000&height=3&section=header" width="100%" />
+
+### `// 01 — OPERATOR IDENTITY`
+
+# SIFAT HOSSEN SHUVO
+
+### `FULL STACK DEVELOPER // AI EXPLORER // CREATIVE BUILDER`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1900&pause=500&color=7CFF9B&center=true&vCenter=true&width=600&lines=Born+to+create%2C+not+to+copy.;Every+bug+is+another+mission.;Ideas+are+the+source+code+of+the+future." alt="Animated developer philosophy" />
 
 </div>
 
-### `01.02 // OPERATOR_DATA`
+---
+
+### `// 02 — DECRYPTING THE OPERATOR`
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**IDENTITY**
+<td width="65%" valign="top">
 
 ```text
-NAME      : Sifat Hossen Shuvo
-BASE      : Bangladesh
-ROLE      : Full Stack Developer
-FOCUS     : Building Digital Products
+╔══════════════════════════════════╗
+║        CLASSIFIED PROFILE        ║
+╠══════════════════════════════════╣
+║                                  ║
+║  NAME   : Sifat Hossen Shuvo     ║
+║  ORIGIN : Bangladesh             ║
+║  ROLE   : Full Stack Developer   ║
+║  MODE   : Learn / Build / Evolve ║
+║                                  ║
+║  SPECIALIZATION                  ║
+║  > Web Engineering               ║
+║  > Artificial Intelligence       ║
+║  > Creative Technology           ║
+║  > Interactive Experiences       ║
+║                                  ║
+╚══════════════════════════════════╝
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="35%" valign="middle">
 
-**CURRENT INTERESTS**
-
-```text
-01 / MERN STACK
-02 / AI INTEGRATION
-03 / CREATIVE DEVELOPMENT
-04 / UI & INTERACTION
-```
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" alt="Anime inspired animated character" />
 
 </td>
 </tr>
 </table>
 
-### `01.03 // DEVELOPMENT_PHILOSOPHY`
+### `// 03 — MY DIGITAL UNIVERSE`
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/01-00FF41?style=for-the-badge&labelColor=050505" />
+
+**WEB ENGINEERING**
+
+<sub>Building modern interfaces and full-stack applications.</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/02-00FF41?style=for-the-badge&labelColor=050505" />
+
+**AI EXPERIMENTS**
+
+<sub>Exploring intelligent tools and AI-powered experiences.</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/03-00FF41?style=for-the-badge&labelColor=050505" />
+
+**CREATIVE CODE**
+
+<sub>Combining motion, design, and engineering.</sub>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2400&pause=900&color=00FF41&center=true&vCenter=true&width=550&lines=I+don't+just+write+code.;I+turn+ideas+into+experiences.;Learn.+Build.+Debug.+Evolve." alt="Development philosophy animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=1600&pause=450&color=00FF41&center=true&vCenter=true&width=600&lines=%5B+SYSTEM+MESSAGE+%5D;I+BUILD+TO+UNDERSTAND.;I+BREAK+LIMITS+TO+LEARN.;THE+NEXT+LEVEL+IS+ALWAYS+LOADING..." alt="Animated hacker system messages" />
 
 <br/>
 
-> My goal isn't to know everything. It's to keep learning, build things that matter, and become better with every project.
+<a href="https://shhomepage.netlify.app/">
+<img src="https://img.shields.io/badge/ENTER_MY_DIGITAL_WORLD-00FF41?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=050505" alt="Visit portfolio" />
+</a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20GROWTH-00FF41?style=flat-square&labelColor=050505" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B17,100:000000&height=80&section=footer" />
 
 </div>
 
