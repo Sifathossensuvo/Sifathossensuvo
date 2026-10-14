@@ -14,7 +14,6 @@
 
 <img src="https://img.shields.io/badge/OPERATOR-SHUVO-00FF41?style=flat-square&labelColor=050505" />
 <img src="https://img.shields.io/badge/ENVIRONMENT-DEVELOPMENT-00FF41?style=flat-square&labelColor=050505" />
-<img src="https://komarev.com/ghpvc/?username=Sifathossensuvo&style=flat-square&color=00FF41&label=VISITORS" />
 
 <br/><br/>
 
