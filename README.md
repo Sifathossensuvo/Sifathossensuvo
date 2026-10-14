@@ -417,3 +417,178 @@ Transforming concepts into custom digital experiences designed around real proje
 </div>
 
 <!-- ☠️ END OF SERVICES.EXE -->
+
+ <!-- ☠️ 04 // PROJECT VAULT -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/04-PROJECT_VAULT-00FF41?style=for-the-badge&labelColor=050505" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=ACCESSING+CLASSIFIED+DATABASE...;DECRYPTING+PROJECT+ARCHIVES...;TARGETS+ACQUIRED+%2F%2F+VAULT+UNLOCKED." />
+
+<br/>
+
+<code>CONFIDENTIAL // PERSONAL DEVELOPMENT ARCHIVE</code>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" />
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT_001-CLASSIFIED-00FF41?style=flat-square&labelColor=050505" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI-POWERED-00FF41?style=for-the-badge&labelColor=050505" />
+
+</div>
+
+### `> CODE NINJA AI`
+
+**An AI-powered coding assistant.**
+
+A hacker-console-inspired coding assistant designed around a dark interface, terminal aesthetics and AI-powered developer workflows.
+
+**TECH ARSENAL**
+
+<img src="https://img.shields.io/badge/React-00FF41?style=flat-square&logo=react&logoColor=000000" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-00FF41?style=flat-square&logo=tailwindcss&logoColor=000000" />
+<img src="https://img.shields.io/badge/OpenRouter-00FF41?style=flat-square&logo=openrouter&logoColor=000000" />
+
+**MISSION STATUS:** `IN DEVELOPMENT`
+
+<a href="https://github.com/Sifathossensuvo">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT_002-CLASSIFIED-00FF41?style=flat-square&labelColor=050505" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/WEB-APPLICATION-00FF41?style=for-the-badge&labelColor=050505" />
+
+</div>
+
+### `> MOVIE EXPLORER`
+
+**A cinematic movie discovery experience.**
+
+A responsive React application built to explore movies, search titles and view movie details through an interactive interface.
+
+**TECH ARSENAL**
+
+<img src="https://img.shields.io/badge/React-00FF41?style=flat-square&logo=react&logoColor=000000" />
+<img src="https://img.shields.io/badge/JavaScript-00FF41?style=flat-square&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/TVmaze_API-00FF41?style=flat-square&logo=themoviedatabase&logoColor=000000" />
+
+**MISSION STATUS:** `PORTFOLIO PROJECT`
+
+<a href="https://github.com/Sifathossensuvo">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT_003-CLASSIFIED-00FF41?style=flat-square&labelColor=050505" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BROWSER-CUSTOMIZATION-00FF41?style=for-the-badge&labelColor=050505" />
+
+</div>
+
+### `> SH HOMEPAGE`
+
+**A custom Chrome homepage.**
+
+A personalized browser homepage designed to replace the default experience with a custom interface and a cleaner everyday browsing start.
+
+**TECH ARSENAL**
+
+<img src="https://img.shields.io/badge/HTML5-00FF41?style=flat-square&logo=html5&logoColor=000000" />
+<img src="https://img.shields.io/badge/CSS3-00FF41?style=flat-square&logo=css3&logoColor=000000" />
+<img src="https://img.shields.io/badge/JavaScript-00FF41?style=flat-square&logo=javascript&logoColor=000000" />
+
+**MISSION STATUS:** `DEPLOYED`
+
+<a href="https://shhomepage.netlify.app/">
+<img src="https://img.shields.io/badge/LAUNCH_LIVE-00FF41?style=for-the-badge&logo=netlify&logoColor=000000&labelColor=050505" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT_004-CLASSIFIED-00FF41?style=flat-square&labelColor=050505" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AUTOMATION-SYSTEM-00FF41?style=for-the-badge&labelColor=050505" />
+
+</div>
+
+### `> RENDER KEEP ALIVE`
+
+**A service availability utility.**
+
+A project focused on automating periodic requests to help keep supported web services responsive, with its source maintained on GitHub.
+
+**TECH ARSENAL**
+
+<img src="https://img.shields.io/badge/GitHub_Actions-00FF41?style=flat-square&logo=githubactions&logoColor=000000" />
+<img src="https://img.shields.io/badge/Automation-00FF41?style=flat-square&logo=dependabot&logoColor=000000" />
+<img src="https://img.shields.io/badge/Git-00FF41?style=flat-square&logo=git&logoColor=000000" />
+
+**MISSION STATUS:** `SOURCE AVAILABLE`
+
+<a href="https://github.com/Sifathossensuvo/render-keep-alive">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=footer" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=FOUR+TARGETS.+ONE+MISSION.;EVERY+PROJECT+TELLS+A+STORY.;MORE+SYSTEMS+UNDER+CONSTRUCTION..." />
+
+<br/><br/>
+
+<a href="https://github.com/Sifathossensuvo?tab=repositories">
+<img src="https://img.shields.io/badge/ACCESS_FULL_PROJECT_ARCHIVE-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
+</a>
+
+<br/><br/>
+
+<code>END OF ARCHIVE // NEXT OPERATION AWAITS_</code>
+
+</div>
+
+<!-- ☠️ END OF PROJECT VAULT -->
