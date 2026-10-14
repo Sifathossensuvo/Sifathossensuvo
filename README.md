@@ -28,6 +28,7 @@
 
 ---
 
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=1400&pause=350&color=00FF41&center=true&vCenter=true&width=550&lines=%3E+ACCESSING+CLASSIFIED+PROFILE...;%3E+IDENTITY+CONFIRMED%3A+SHUVO;%3E+WELCOME+TO+THE+CYBER+REALM." alt="Animated hacker boot sequence" />
@@ -60,31 +61,36 @@
 
 ### `// 02 — DECRYPTING THE OPERATOR`
 
-<table>
+<table width="100%" border="1" cellspacing="0" cellpadding="16">
 <tr>
-<td width="65%" valign="top">
+<td width="100%" valign="top" align="left">
 
 ```text
-╔══════════════════════════════════╗
-║        CLASSIFIED PROFILE        ║
-╠══════════════════════════════════╣
-║                                  ║
-║  NAME   : Sifat Hossen Shuvo     ║
-║  ORIGIN : Bangladesh             ║
-║  ROLE   : Full Stack Developer   ║
-║  MODE   : Learn / Build / Evolve ║
-║                                  ║
-║  SPECIALIZATION                  ║
-║  > Web Engineering               ║
-║  > Artificial Intelligence       ║
-║  > Creative Technology           ║
-║  > Interactive Experiences       ║
-║                                  ║
-╚══════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                     CLASSIFIED PROFILE                          ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  NAME   : Sifat Hossen Shuvo                                     ║
+║  ORIGIN : Bangladesh                                             ║
+║  ROLE   : Full Stack Developer                                   ║
+║  MODE   : Learn / Build / Evolve                                 ║
+║                                                                  ║
+║  SPECIALIZATION                                                  ║
+║  > Web Engineering                                               ║
+║  > Artificial Intelligence                                       ║
+║  > Creative Technology                                           ║
+║  > Interactive Experiences                                       ║
+║                                                                  ║
+║  STATUS : ONLINE                                                 ║
+║  ACCESS : AUTHORIZED                                             ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </td>
-<td width="35%" valign="middle">
+</tr>
+<tr>
+<td width="100%" align="center">
 
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" alt="Anime inspired animated character" />
 
@@ -92,31 +98,41 @@
 </tr>
 </table>
 
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:003B17,100:000000&height=3&section=header" />
+
 ### `// 03 — MY DIGITAL UNIVERSE`
 
-<table>
+<table width="100%" border="0" cellspacing="8" cellpadding="12">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/01-00FF41?style=for-the-badge&labelColor=050505" />
+
+<br/><br/>
 
 **WEB ENGINEERING**
 
 <sub>Building modern interfaces and full-stack applications.</sub>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/02-00FF41?style=for-the-badge&labelColor=050505" />
+
+<br/><br/>
 
 **AI EXPERIMENTS**
 
 <sub>Exploring intelligent tools and AI-powered experiences.</sub>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/03-00FF41?style=for-the-badge&labelColor=050505" />
+
+<br/><br/>
 
 **CREATIVE CODE**
 
@@ -130,11 +146,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=1600&pause=450&color=00FF41&center=true&vCenter=true&width=600&lines=%5B+SYSTEM+MESSAGE+%5D;I+BUILD+TO+UNDERSTAND.;I+BREAK+LIMITS+TO+LEARN.;THE+NEXT+LEVEL+IS+ALWAYS+LOADING..." alt="Animated hacker system messages" />
 
-<br/>
+<br/><br/>
 
 <a href="https://shhomepage.netlify.app/">
 <img src="https://img.shields.io/badge/ENTER_MY_DIGITAL_WORLD-00FF41?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=050505" alt="Visit portfolio" />
 </a>
+
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B17,100:000000&height=80&section=footer" />
 
