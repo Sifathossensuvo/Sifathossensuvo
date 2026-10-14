@@ -1,18 +1,11 @@
 
-<!--
-  SHUVO // DIGITAL SYSTEM
-  Personal GitHub Profile
-  Theme: Cyberpunk / Anime / Engineering
-  Accent: Neon Green
--->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:020503,20:031C0D,50:075326,80:00A847,100:020503&text=SHUVO%20%2F%2F%20DIGITAL%20SYSTEM&fontColor=E8FFEF&fontSize=36&fontAlignY=39&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20CREATIVE%20DEVELOPMENT&descSize=12&descAlignY=56&animation=fadeIn&stroke=00FF66&strokeWidth=1" alt="SHUVO Digital System"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020503,25:052B12,60:08752F,100:020503&text=SHUVO%20%2F%2F%20DIGITAL%20SYSTEM&fontColor=E8FFEF&fontSize=35&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20CREATIVE%20ENGINEER&descSize=13&descAlignY=56&animation=fadeIn&stroke=00FF66&strokeWidth=1" alt="Shuvo Digital System"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=700&color=00FF66&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+DEVELOPER+ENVIRONMENT...;%3E+BUILDING+DIGITAL+EXPERIENCES...;%3E+ENGINEERING+INTERFACES+WITH+PURPOSE...;%3E+DESIGNING.+DEVELOPING.+EVOLVING." alt="Animated development status"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2400&pause=600&color=00FF66&center=true&vCenter=true&width=760&lines=%3E+INITIALIZING+DEVELOPER+ENVIRONMENT...;%3E+ENGINEERING+INTERACTIVE+EXPERIENCES...;%3E+BUILDING+SYSTEMS+WITH+PURPOSE...;%3E+DESIGN.+DEVELOP.+EVOLVE." alt="Animated coding terminal"/>
 
-<br>
+<br/>
 
 <a href="https://github.com/Sifathossensuvo?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-00FF66?style=for-the-badge&logo=github&logoColor=000000" alt="Explore projects"/>
@@ -22,167 +15,96 @@
 <img src="https://img.shields.io/badge/LIVE_EXPERIMENT-101510?style=for-the-badge&logo=googlechrome&logoColor=00FF66" alt="Live project"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sifathossensuvo&style=flat-square&color=00FF66&label=SYSTEM+VISITORS" alt="Profile views"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-`[ 00 ] IDENTITY` &nbsp; / &nbsp; `[ 01 ] CAPABILITIES` &nbsp; / &nbsp; `[ 02 ] PROJECTS` &nbsp; / &nbsp; `[ 03 ] ACTIVITY`
+<img src="https://komarev.com/ghpvc/?username=Sifathossensuvo&style=flat-square&color=00FF66&label=PROFILE+VISITS" alt="Profile visits"/>
 
 </div>
 
 ---
 
-<!-- 01 / HERO -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=38&color=050B07&text=01%20%2F%2F%20THE%20DEVELOPER&fontColor=00FF66&fontSize=15&stroke=123D24&strokeWidth=1" alt="The developer"/>
+`IDENTITY` &nbsp; / &nbsp; `ENGINEERING` &nbsp; / &nbsp; `PROJECTS` &nbsp; / &nbsp; `ACTIVITY`
 
 </div>
 
+<a id="about"></a>
+
 <table>
 <tr>
-<td width="64%" valign="middle">
+<td width="60%" valign="middle">
+
+## 01 / ABOUT THE DEVELOPER
 
 # Sifat Hossen Shuvo
 
-### Developer. Designer. Digital Creator.
+**Full Stack Developer · Digital Creator**
 
-I build modern web experiences by combining engineering, interface design, and creative thinking.
+I build modern web applications and interactive digital experiences with a focus on thoughtful design, maintainable code, and meaningful functionality.
 
-My work focuses on creating responsive applications, thoughtful user interfaces, interactive experiences, and practical tools that connect technology with real-world needs.
+My interests span frontend engineering, backend development, creative interfaces, web animation, and AI-powered applications.
 
-I enjoy exploring the space between design and development — where clean architecture meets distinctive visual identity.
+I enjoy turning ideas into functional products, exploring new technologies, and refining the details that make digital experiences feel distinctive.
 
-**CURRENT DIRECTION**
+**CURRENT FOCUS**
 
-- Frontend engineering and modern web applications
-- Full-stack development and API integration
-- UI/UX, motion design, and interactive interfaces
-- AI-powered applications and developer tools
-- Continuous learning through practical projects
+- Modern frontend development
+- Full-stack application architecture
+- Interactive UI/UX and web animation
+- AI integrations and developer tools
+- Continuous learning through real projects
 
 </td>
-<td width="36%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img width="100%" src="https://media.giphy.com/media/13HgwGsXl08Zq8/giphy.gif" alt="Animated coding workspace"/>
+<img width="100%" src="https://media.giphy.com/media/13HgwGsXl08Zq8/giphy.gif" alt="Animated programming scene"/>
 
-<br><br>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/LOCATION-BANGLADESH-00FF66?style=flat-square&labelColor=050805" alt="Location"/>
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_BUILDING-00FF66?style=flat-square&labelColor=050805" alt="Current status"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img width="85%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3200&pause=900&color=8AFFB0&center=true&vCenter=true&width=800&lines=Thoughtful+design.+Reliable+engineering.;Every+interface+has+a+purpose.;Every+project+is+an+opportunity+to+improve." alt="Development philosophy"/>
-
-</div>
-
----
-
-<!-- 02 / ABOUT -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=38&color=050B07&text=02%20%2F%2F%20ABOUT%20THE%20ENGINEER&fontColor=00FF66&fontSize=15&stroke=123D24&strokeWidth=1" alt="About the engineer"/>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### THE APPROACH
-
-I approach development as a combination of problem-solving, design, and continuous experimentation.
-
-I care about how an application looks, how it behaves, how its components fit together, and how easily people can use it.
-
-Rather than stopping at a visual concept, I aim to turn ideas into functional projects and learn from every iteration.
-
-</td>
-<td width="50%" valign="top">
-
-### THE PRINCIPLES
-
-**01 — Clarity**
-
-Readable code and understandable interfaces.
-
-**02 — Craft**
-
-Attention to details, spacing, motion, and usability.
-
-**03 — Exploration**
-
-Experimenting with technologies and new ideas.
-
-**04 — Progress**
-
-Building consistently and improving through practice.
+<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS_GROWTH-00FF66?style=flat-square&labelColor=050805" alt="Mindset"/>
 
 </td>
 </tr>
 </table>
 
-<br>
-
 <div align="center">
 
-<img width="70%" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Digital creative atmosphere"/>
+<img width="80%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2800&pause=700&color=00FF66&center=true&vCenter=true&width=760&lines=Thoughtful+design.+Reliable+engineering.;Ideas+deserve+more+than+just+good+looks.;Build+it.+Test+it.+Make+it+better." alt="Developer philosophy"/>
 
 </div>
 
 ---
 
-<!-- 03 / TECH STACK -->
+<a id="skills"></a>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=38&color=050B07&text=03%20%2F%2F%20TECHNICAL%20CAPABILITIES&fontColor=00FF66&fontSize=15&stroke=123D24&strokeWidth=1" alt="Technical capabilities"/>
+## 02 / TECHNICAL ARSENAL
 
-<br><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF66" alt="Neon divider"/>
 
 ### FRONTEND ENGINEERING
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend technology stack"/>
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend technologies"/>
 
 ### BACKEND & DATABASES
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend technology stack"/>
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend technologies"/>
 
 ### CREATIVE DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=figma,threejs&theme=dark" alt="Design and 3D tools"/>
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=figma,threejs&theme=dark" alt="Creative development tools"/>
 
 ### ENGINEERING TOOLKIT
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,vercel,npm&theme=dark" alt="Developer tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,vercel,npm&theme=dark" alt="Development tools"/>
 
 </div>
-
-<br>
 
 <table>
 <tr>
@@ -190,36 +112,21 @@ Building consistently and improving through practice.
 
 ### `/ FRONTEND`
 
-- Responsive UI development
-- React component architecture
-- JavaScript and TypeScript
-- Tailwind CSS
-- Routing and state management
-- API integration
+Responsive interfaces, reusable React components, JavaScript, TypeScript, routing, API integration, and thoughtful user experiences.
 
 </td>
 <td width="33%" valign="top">
 
 ### `/ BACKEND`
 
-- Node.js and Express
-- REST API development
-- CRUD operations
-- MongoDB integration
-- Authentication concepts
-- Server-side application logic
+Node.js, Express, MongoDB, REST APIs, CRUD operations, authentication concepts, and application data workflows.
 
 </td>
 <td width="33%" valign="top">
 
 ### `/ CREATIVE`
 
-- UI/UX design
-- Figma
-- Framer Motion
-- Three.js exploration
-- Web animation
-- AI integration and experimentation
+UI/UX design, Figma, Framer Motion, Three.js exploration, web animation, and AI integration.
 
 </td>
 </tr>
@@ -227,15 +134,13 @@ Building consistently and improving through practice.
 
 ---
 
-<!-- 04 / ENGINEERING WORKSPACE -->
+<a id="workspace"></a>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=38&color=050B07&text=04%20%2F%2F%20ENGINEERING%20WORKSPACE&fontColor=00FF66&fontSize=15&stroke=123D24&strokeWidth=1" alt="Engineering workspace"/>
+## 03 / ENGINEERING WORKSPACE
 
-<br><br>
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2200&pause=500&color=00FF66&center=true&vCenter=true&width=800&lines=%24+git+status...;%24+npm+run+dev...;%3E+Initializing+development+environment;%3E+Building+reusable+components;%3E+Integrating+application+logic;%3E+Refining+the+user+experience;%24+process+continues..." alt="Animated terminal workflow"/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1800&pause=400&color=00FF66&center=true&vCenter=true&width=800&lines=%24+npm+run+dev...;%3E+Loading+development+environment;%3E+Building+reusable+components;%3E+Connecting+application+logic;%3E+Refining+responsive+layouts;%3E+Optimizing+the+experience;%24+ready+for+the+next+iteration." alt="Animated development workflow"/>
 
 </div>
 
@@ -243,38 +148,38 @@ Building consistently and improving through practice.
 <tr>
 <td width="50%" valign="top">
 
-### DEVELOPMENT WORKFLOW
+### DEVELOPMENT PIPELINE
 
-```text
-01  /  DISCOVER
+
+01  DISCOVER
     Understand the problem.
 
-02  /  DESIGN
-    Define the experience.
+02  DESIGN
+    Plan the experience.
 
-03  /  DEVELOP
-    Build the components.
+03  DEVELOP
+    Build the application.
 
-04  /  INTEGRATE
+04  INTEGRATE
     Connect the systems.
 
-05  /  REFINE
-    Test, improve, iterate.
-```
+05  REFINE
+    Test and improve.
+
 
 </td>
 <td width="50%" valign="top">
 
 ### ENGINEERING PRIORITIES
 
-```text
-[ FRONTEND       ]  Interface quality
-[ ARCHITECTURE   ]  Reusable components
-[ PERFORMANCE    ]  Efficient rendering
-[ RESPONSIVENESS ]  Multi-device layouts
-[ MAINTAINABILITY]  Readable code
-[ LEARNING       ]  Continuous improvement
-```
+
+[ UI/UX          ]  Usability
+[ ARCHITECTURE   ]  Reusability
+[ RESPONSIVENESS ]  Adaptability
+[ PERFORMANCE    ]  Efficiency
+[ MAINTAINABILITY]  Clarity
+[ LEARNING       ]  Improvement
+
 
 </td>
 </tr>
@@ -282,21 +187,19 @@ Building consistently and improving through practice.
 
 <div align="center">
 
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF66" alt="Section divider"/>
+<img width="90%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Software development animation"/>
 
 </div>
 
 ---
 
-<!-- 05 / FEATURED PROJECTS -->
+<a id="projects"></a>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=38&color=050B07&text=05%20%2F%2F%20SELECTED%20PROJECTS&fontColor=00FF66&fontSize=15&stroke=123D24&strokeWidth=1" alt="Selected projects"/>
+## 04 / SELECTED PROJECTS
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2500&pause=700&color=00FF66&center=true&vCenter=true&width=650&lines=IDEAS+INTO+INTERFACES.;CONCEPTS+INTO+APPLICATIONS.;CODE+INTO+EXPERIENCES." alt="Project introduction"/>
+*Designed with intent. Developed through experimentation.*
 
 </div>
 
@@ -304,147 +207,98 @@ Building consistently and improving through practice.
 <tr>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=105&color=020704&text=CODE%20NINJA%20AI&fontColor=00FF66&fontSize=26&stroke=00FF66&strokeWidth=1" alt="Code Ninja AI"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=020704&text=CODE%20NINJA%20AI&fontColor=00FF66&fontSize=25&stroke=00FF66&strokeWidth=1" alt="Code Ninja AI"/>
 
-### AI DEVELOPMENT ENVIRONMENT
+### AI CODING ASSISTANT
 
-An AI coding assistant concept built around a distinctive hacker-console interface and an AI-powered conversation experience.
+A coding assistant concept with an AI-powered conversation experience and a futuristic developer-focused interface.
 
-**CORE TECHNOLOGIES**
+**STACK**
 
 `React` `Tailwind CSS` `OpenRouter`
 
-**DESIGN DIRECTION**
+**FOCUS**
 
-Terminal-inspired UI, configurable preferences, code-focused conversations, and a personalized developer workspace.
+AI integration, conversation management, and a custom terminal-inspired interface.
 
-[**EXPLORE REPOSITORIES ↗**](https://github.com/Sifathossensuvo?tab=repositories)
+[![Source](https://img.shields.io/badge/EXPLORE_SOURCE-00FF66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sifathossensuvo?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=105&color=020704&text=SH%20HOMEPAGE&fontColor=00FF66&fontSize=26&stroke=00FF66&strokeWidth=1" alt="SH Homepage"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=020704&text=SH%20HOMEPAGE&fontColor=00FF66&fontSize=25&stroke=00FF66&strokeWidth=1" alt="SH Homepage"/>
 
-### PERSONAL BROWSER EXPERIENCE
+### PERSONAL BROWSER HOMEPAGE
 
-A custom browser homepage designed to create a personalized starting point for everyday browsing.
+A custom Chrome-style homepage created to provide a personalized starting point for everyday browsing.
 
-**CORE DIRECTION**
+**FOCUS**
 
-`Frontend Development` `UI Design`
+Personalized interface, frontend development, and browser-oriented design.
 
-**PROJECT FOCUS**
-
-A dedicated homepage experience with its own identity, layout, and browsing-oriented interface.
-
-[**OPEN LIVE PROJECT ↗**](https://shhomepage.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/OPEN_LIVE_DEMO-00FF66?style=for-the-badge&logo=googlechrome&logoColor=black)](https://shhomepage.netlify.app/)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=105&color=020704&text=MOVIE%20EXPLORER&fontColor=00FF66&fontSize=24&stroke=00FF66&strokeWidth=1" alt="Movie Explorer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=020704&text=MOVIE%20EXPLORER&fontColor=00FF66&fontSize=24&stroke=00FF66&strokeWidth=1" alt="Movie Explorer"/>
 
 ### MOVIE DISCOVERY APPLICATION
 
-A React-based movie exploration project focused on discovering titles, searching for movies, and displaying movie information.
+A React project focused on searching for movies, browsing results, and presenting movie details in a responsive interface.
 
-**CORE TECHNOLOGIES**
+**STACK**
 
 `React` `JavaScript` `TVMaze API`
 
-**PROJECT FOCUS**
+**FOCUS**
 
-Search interactions, movie cards, details modal, and responsive layouts.
+Search, movie cards, details modal, and responsive layouts.
 
-[**EXPLORE REPOSITORIES ↗**](https://github.com/Sifathossensuvo?tab=repositories)
+[![Source](https://img.shields.io/badge/EXPLORE_SOURCE-00FF66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sifathossensuvo?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=105&color=020704&text=CODE%20NINJA%20MEDIA&fontColor=00FF66&fontSize=22&stroke=00FF66&strokeWidth=1" alt="Code Ninja Media Player"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=020704&text=CODE%20NINJA%20MEDIA&fontColor=00FF66&fontSize=21&stroke=00FF66&strokeWidth=1" alt="Code Ninja Media"/>
 
-### MEDIA PLAYER EXPERIENCE
+### CUSTOM MEDIA PLAYER
 
-A custom media player concept with a hacker-inspired visual identity and a focus on media controls and interactive interface design.
+A media player concept with a hacker-inspired visual identity and a focus on playback controls and interface design.
 
-**CORE DIRECTION**
+**STACK**
 
 `HTML` `CSS` `JavaScript`
 
-**PROJECT FOCUS**
+**FOCUS**
 
-Media playback, interface customization, and an immersive visual presentation.
+Media controls, custom styling, and interactive user experiences.
 
-[**EXPLORE REPOSITORIES ↗**](https://github.com/Sifathossensuvo?tab=repositories)
+[![Source](https://img.shields.io/badge/EXPLORE_SOURCE-00FF66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sifathossensuvo?tab=repositories)
 
 </td>
 </tr>
 </table>
-
-<br>
 
 <div align="center">
 
 <a href="https://github.com/Sifathossensuvo?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-00FF66?style=for-the-badge&logo=github&logoColor=000000" alt="View all projects"/>
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="All repositories"/>
 </a>
 
 </div>
 
 ---
 
-<!-- 06 / CREATIVE LAB -->
+<a id="journey"></a>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=38&color=050B07&text=06%20%2F%2F%20CREATIVE%20LAB&fontColor=00FF66&fontSize=15&stroke=123D24&strokeWidth=1" alt="Creative lab"/>
+## 05 / DEVELOPMENT JOURNEY
 
-<br><br>
-
-<img width="90%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Programming and creative experimentation"/>
-
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### INTERACTION
-
-Exploring responsive interfaces, motion, transitions, and purposeful micro-interactions.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### VISUAL SYSTEMS
-
-Experimenting with dark interfaces, typography, visual hierarchy, and distinctive design languages.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### AI & AUTOMATION
-
-Exploring AI-assisted workflows, integrations, and applications that make technology more useful.
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- 07 / DEVELOPMENT JOURNEY -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=38&color=050B07&text=07%20%2F%2F%20DEVELOPMENT%20JOURNEY&fontColor=00FF66&fontSize=15&stroke=123D24&strokeWidth=1" alt="Development journey"/>
-
-<br><br>
-
-<img width="85%" src="https://media.giphy.com/media/8dPbkqUb2p5XTvIXLx/giphy.gif" alt="Anime-inspired development atmosphere"/>
+<img width="85%" src="https://media.giphy.com/media/8dPbkqUb2p5XTvIXLx/giphy.gif" alt="Anime-inspired cinematic coding scene"/>
 
 </div>
 
@@ -452,46 +306,38 @@ Exploring AI-assisted workflows, integrations, and applications that make techno
 <tr>
 <td width="25%" align="center" valign="top">
 
-**01 / FOUNDATION**
-
-<br><br>
+**PHASE 01**
 
 ### LEARN
 
-Strengthen fundamentals and understand the systems behind the tools.
+Strengthen the fundamentals and understand the underlying systems.
 
 </td>
 <td width="25%" align="center" valign="top">
 
-**02 / IMPLEMENTATION**
-
-<br><br>
+**PHASE 02**
 
 ### BUILD
 
-Translate ideas into practical applications and real project work.
+Turn concepts into practical applications and projects.
 
 </td>
 <td width="25%" align="center" valign="top">
 
-**03 / EXPLORATION**
+**PHASE 03**
 
-<br><br>
+### EXPLORE
 
-### EXPERIMENT
-
-Explore AI, animation, creative development, and emerging technologies.
+Experiment with AI, animation, and creative technologies.
 
 </td>
 <td width="25%" align="center" valign="top">
 
-**04 / REFINEMENT**
-
-<br><br>
+**PHASE 04**
 
 ### EVOLVE
 
-Improve problem-solving, software design, and engineering practices.
+Improve problem-solving, architecture, and implementation.
 
 </td>
 </tr>
@@ -499,43 +345,35 @@ Improve problem-solving, software design, and engineering practices.
 
 ---
 
-<!-- 08 / GITHUB ANALYTICS -->
+<a id="stats"></a>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=38&color=050B07&text=08%20%2F%2F%20GITHUB%20ANALYTICS&fontColor=00FF66&fontSize=15&stroke=123D24&strokeWidth=1" alt="GitHub analytics"/>
-
-<br><br>
+## 06 / GITHUB ANALYTICS
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sifathossensuvo&show_icons=true&hide_border=true&bg_color=050805&title_color=00FF66&icon_color=00FF66&text_color=E8F5EA" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Sifathossensuvo&hide_border=true&background=050805&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=E8F5EA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A9B8A" alt="Contribution streak"/>
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Sifathossensuvo&hide_border=true&background=050805&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=E8F5EA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A9B8A" alt="GitHub contribution streak"/>
 
-<br><br>
+<br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sifathossensuvo&layout=compact&hide_border=true&bg_color=050805&title_color=00FF66&text_color=E8F5EA" alt="Most used languages"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sifathossensuvo&layout=compact&hide_border=true&bg_color=050805&title_color=00FF66&text_color=E8F5EA" alt="Programming language statistics"/>
 
-<br><br>
+<br/><br/>
 
-### CONTRIBUTION ACTIVITY
+### CONTRIBUTION MATRIX
 
-<img width="100%" src="https://raw.githubusercontent.com/Sifathossensuvo/Sifathossensuvo/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph"/>
-
-<br>
-
-<a href="https://github.com/Sifathossensuvo?tab=activity">
-<img src="https://img.shields.io/badge/INSPECT_ACTIVITY-00FF66?style=for-the-badge&logo=github&logoColor=000000" alt="Inspect GitHub activity"/>
-</a>
+<img width="100%" src="https://raw.githubusercontent.com/Sifathossensuvo/Sifathossensuvo/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
 
 </div>
 
 ---
 
-<!-- 09 / CURRENT FOCUS -->
+<a id="focus"></a>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=38&color=050B07&text=09%20%2F%2F%20CURRENT%20FOCUS&fontColor=00FF66&fontSize=15&stroke=123D24&strokeWidth=1" alt="Current focus"/>
+## 07 / CURRENT FOCUS
 
 </div>
 
@@ -543,24 +381,24 @@ Improve problem-solving, software design, and engineering practices.
 <tr>
 <td width="50%" valign="top">
 
-### ACTIVE DEVELOPMENT AREAS
+### BUILDING
 
-- Building responsive React applications
-- Improving JavaScript fundamentals
-- Developing stronger component architecture
-- Exploring full-stack application workflows
-- Creating distinctive, polished interfaces
+- Responsive React applications
+- Reusable interface systems
+- Full-stack development workflows
+- Practical API integrations
+- Distinctive project experiences
 
 </td>
 <td width="50%" valign="top">
 
-### AREAS OF EXPLORATION
+### EXPLORING
 
-- AI-powered application experiences
+- AI-powered applications
 - UI/UX and motion design
-- Interactive web technologies
-- API integrations and data handling
-- Better engineering and problem-solving practices
+- Creative web technologies
+- Application architecture
+- More effective problem-solving
 
 </td>
 </tr>
@@ -568,46 +406,44 @@ Improve problem-solving, software design, and engineering practices.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2400&pause=700&color=00FF66&center=true&vCenter=true&width=700&lines=STATUS%3A+LEARNING+AND+BUILDING;%3E+NEXT+ITERATION+IN+PROGRESS;%3E+CONTINUOUS+IMPROVEMENT+ENABLED" alt="Current development status"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2400&pause=600&color=00FF66&center=true&vCenter=true&width=700&lines=STATUS%3A+LEARNING+AND+BUILDING;%3E+NEXT+ITERATION+IN+PROGRESS;%3E+CONTINUOUS+IMPROVEMENT+ENABLED" alt="Development status"/>
 
 </div>
 
 ---
 
-<!-- 10 / CONNECT -->
+<a id="connect"></a>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=38&color=050B07&text=10%20%2F%2F%20ESTABLISH%20CONNECTION&fontColor=00FF66&fontSize=15&stroke=123D24&strokeWidth=1" alt="Establish connection"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=38&color=050B07&text=08%20%2F%2F%20CONNECT&fontColor=00FF66&fontSize=15&stroke=123D24&strokeWidth=1" alt="Connect"/>
 
-<br><br>
-
-<img width="85%" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Digital connection"/>
+<br/><br/>
 
 ### LET'S BUILD SOMETHING MEANINGFUL.
 
-Open to connecting with developers, exploring interesting ideas, and sharing knowledge around technology and creative development.
+Interested in technology, creative development, and turning ideas into useful digital experiences.
 
-<br>
+<br/>
 
 <a href="https://github.com/Sifathossensuvo">
 <img src="https://img.shields.io/badge/GITHUB-050805?style=for-the-badge&logo=github&logoColor=00FF66" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://shhomepage.netlify.app/">
-<img src="https://img.shields.io/badge/PROJECT-050805?style=for-the-badge&logo=vercel&logoColor=00FF66" alt="Live project"/>
+<img src="https://img.shields.io/badge/PROJECT-050805?style=for-the-badge&logo=vercel&logoColor=00FF66" alt="Project"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LINKEDIN-050805?style=for-the-badge&logo=linkedin&logoColor=00FF66" alt="LinkedIn"/>
 </a>
 
-<br><br>
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:020503,30:063819,70:00A847,100:020503" alt="Footer"/>
 
-### SIFAT HOSSEN SHUVO
+**SIFAT HOSSEN SHUVO**
 
-`DESIGN WITH INTENT` &nbsp; / &nbsp; `ENGINEER WITH PURPOSE` &nbsp; / &nbsp; `KEEP EVOLVING`
+`DESIGN WITH INTENT` / `ENGINEER WITH PURPOSE` / `KEEP EVOLVING`
 
 </div>
