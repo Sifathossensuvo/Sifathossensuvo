@@ -1,733 +1,251 @@
 
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-<br><br>
-
-# SIFAT HOSSEN SHUVO
-
-### 「 𝘾𝙍𝙀𝘼𝙏𝙄𝙉𝙂 • 𝘿𝙄𝙂𝙄𝙏𝘼𝙇 • 𝙀𝙓𝙋𝙀𝙍𝙄𝙀𝙉𝘾𝙀𝙎 」
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&repeat=true&width=950&lines=%3E+Booting+Developer+Profile...;%3E+Loading+Creative+Mind...;%3E+Initializing+React+Environment...;%3E+Access+Granted.;%3E+Welcome+Sifat+Hossen+Suvo."
-    alt="Terminal Typing Animation"
-  />
-</p>
-
-<br>
-
-> ### **"I don't build ordinary websites. I build experiences people remember."**
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-```text
-
-███████╗██╗███████╗ █████╗ ████████╗
-██╔════╝██║██╔════╝██╔══██╗╚══██╔══╝
-███████╗██║█████╗  ███████║   ██║
-╚════██║██║██╔══╝  ██╔══██║   ██║
-███████║██║██║     ██║  ██║   ██║
-╚══════╝╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝
-
-```
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-## ⚡ PROFILE
-
-💚 Status
-
-```diff
-+ ONLINE
-```
-
-🧠 Mind
-
-```yaml
-Creative
-```
-
-🎯 Focus
-
-```yaml
-Frontend Development
-```
-
-🚀 Mission
-
-```yaml
-Build Impossible Things
-```
-
-</td>
-
-<td align="center" width="50%">
-
-## 🖥 SYSTEM
-
-```bash
-OS        :: Windows
-Editor    :: VS Code
-Language  :: JavaScript
-Library   :: React
-Bundler   :: Vite
-Learning  :: Full Stack
-Coffee    :: Infinite ☕
-
-```
-
-</td>
-</tr>
-</table>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### ⚫ 「 Everything starts with an idea. Everything ends with perfection. 」
-
-</div>
+<!--
+  SIFAT HOSSEN SHUVO — GITHUB PROFILE
+  Anime × Cyberpunk × Neon Green
+  Replace project links and social links with your real URLs.
+-->
 
 <div align="center">
 
-# ◈ IDENTITY SCAN ◈
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020402,30:063B16,65:00FF66,100:020402&text=SIFAT%20HOSSEN%20SHUVO&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20DIGITAL%20CREATOR&descSize=13&descAlignY=57&animation=fadeIn&stroke=00FF66&strokeWidth=1" width="100%" alt="Cyberpunk profile banner"/>
 
-### 「 AUTHENTICATION SUCCESSFUL 」
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=800&color=00FF66&center=true&vCenter=true&width=750&lines=INITIALIZING+SHUVO.EXE...;FULL+STACK+DEVELOPER+%7C+CREATIVE+BUILDER;TURNING+IDEAS+INTO+DIGITAL+EXPERIENCES;BUILD.+BREAK.+LEARN.+REPEAT.;WELCOME+TO+MY+DIGITAL+UNIVERSE." alt="Animated developer introduction"/>
 
-<br>
+<br/>
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                         NEURAL PROFILE SCAN                         ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                     ║
-║   NAME        :: SIFAT HOSSEN SUVO                                  ║
-║   ROLE        :: FRONT-END DEVELOPER                                ║
-║   SPECIALTY   :: REACT • JAVASCRIPT • UI ENGINEERING                ║
-║   LOCATION    :: BANGLADESH                                         ║
-║   EXPERIENCE  :: BUILDING MODERN & INTERACTIVE WEB APPLICATIONS     ║
-║   STATUS      :: VERIFIED                                            ║
-║                                                                     ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Looping coding animation"/>
 
-<br>
+<br/>
 
-<table>
+[![Profile Views](https://komarev.com/ghpvc/?username=Sifathossensuvo&style=for-the-badge&color=00ff66&label=PROFILE+VISITORS)](https://github.com/Sifathossensuvo)
+[![GitHub followers](https://img.shields.io/github/followers/Sifathossensuvo?style=for-the-badge&logo=github&color=00ff66&labelColor=050805)](https://github.com/Sifathossensuvo?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Sifathossensuvo?style=for-the-badge&logo=github&color=00ff66&labelColor=050805)](https://github.com/Sifathossensuvo?tab=repositories)
 
-<tr>
+<br/>
 
-<td align="center" width="33%">
+**「 Not just writing code. Building worlds with it. 」**
 
-## ⚡ CURRENT
-
-```yaml
-Learning:
-  - React Ecosystem
-  - Backend Development
-  - UI Animation
-```
-
-</td>
-
-<td align="center" width="33%">
-
-## 🎯 TARGET
-
-```yaml
-Goal:
-  - Global Freelancing
-  - Open Source
-  - SaaS Products
-```
-
-</td>
-
-<td align="center" width="33%">
-
-## 🚀 MINDSET
-
-```yaml
-Rule:
-  - Learn
-  - Build
-  - Improve
-  - Repeat
-```
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-> ### **"Every project is another step toward mastery."**
+[EXPLORE MY PROJECTS](#-featured-projects) ·
+[MY TECH STACK](#-tech-stack) ·
+[CONNECT WITH ME](#-connect-with-me)
 
 </div>
 
 ---
 
-<div align="center">
+## `01` // SYSTEM INITIALIZED
 
-# ◈ DIGITAL PROFILE ◈
-
-### 「 DEVELOPER DATABASE LOADED 」
-
-<br>
-
-<table>
-
-<tr>
-
-<td align="center">
+<img align="right" width="300" src="https://media.giphy.com/media/13HgwGsXl08Zq8/giphy.gif" alt="Developer coding animation"/>
 
 ```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   👤 NAME                                    │
-│                                              │
-│   SIFAT HOSSEN SUVO                          │
-│                                              │
-│   Front-End Developer                        │
-│                                              │
-╰──────────────────────────────────────────────╯
+╔══════════════════════════════════╗
+║        USER PROFILE              ║
+╠══════════════════════════════════╣
+║ NAME    : Sifat Hossen Shuvo     ║
+║ ROLE    : Full Stack Developer   ║
+║ STATUS  : Always Learning        ║
+║ FOCUS   : Web & AI Applications  ║
+║ MODE    : BUILDING               ║
+╚══════════════════════════════════╝
 ```
 
-</td>
+Hey, I'm **Sifat Hossen Shuvo**, a developer passionate about creating modern web applications, interactive digital experiences, and tools that solve real problems.
 
-<td align="center">
+I enjoy combining clean code, thoughtful UI/UX, smooth animations, and creative ideas to build products that feel different from the ordinary.
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   🧠 SPECIALIZATION                           │
-│                                              │
-│   • React                                    │
-│   • JavaScript                               │
-│   • Responsive UI                            │
-│   • Creative Interfaces                      │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
+My journey is about more than learning frameworks. It's about understanding how things work, solving challenging problems, and continuously becoming a better developer.
 
-</td>
+- Building modern and responsive web applications.
+- Exploring AI-powered tools and developer experiences.
+- Experimenting with creative interfaces and animation.
+- Learning by building real-world projects.
+- Turning ambitious ideas into working products.
 
-</tr>
+> **MY PHILOSOPHY:** Learn continuously. Build fearlessly. Improve relentlessly.
 
-<tr>
+<br clear="right"/>
 
-<td align="center">
+---
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   ⚡ CURRENTLY                               │
-│                                              │
-│   Building premium                           │
-│   web experiences                            │
-│   while learning                             │
-│   Full Stack Development.                    │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-</td>
-
-<td align="center">
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   🚀 VISION                                  │
-│                                              │
-│   Build products                             │
-│   people enjoy using,                        │
-│   contribute to                              │
-│   open source,                               │
-│   and never stop learning.                   │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-   "Code is the tool.
-    Creativity is the weapon.
-    Consistency is the superpower."
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
+## `02` // THE ANIME UNIVERSE
 
 <div align="center">
 
-# ◈ TECH ARSENAL ◈
+<img src="https://media.giphy.com/media/8dPbkqUb2p5XTvIXLx/giphy.gif" width="100%" alt="Anime-inspired cinematic scene"/>
 
-### 「 SYSTEM WEAPON INVENTORY 」
+### `EVERY GREAT DEVELOPER HAS A STORY.`
 
-<br>
+*Some people watch the future happen. Others open their editor and start building it.*
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                    DEVELOPER ARSENAL INITIALIZED                    ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  PRIMARY WEAPONS                                                    ║
-║  ▸ HTML5                                                            ║
-║  ▸ CSS3                                                             ║
-║  ▸ JavaScript (ES6+)                                                ║
-║  ▸ React                                                            ║
-║  ▸ Vite                                                             ║
-║                                                                      ║
-║  SECONDARY WEAPONS                                                  ║
-║  ▸ Tailwind CSS                                                     ║
-║  ▸ Firebase                                                         ║
-║  ▸ Git & GitHub                                                     ║
-║  ▸ Figma                                                            ║
-║                                                                      ║
-║  CURRENT RESEARCH                                                   ║
-║  ▸ Node.js                                                          ║
-║  ▸ Express.js                                                       ║
-║  ▸ MongoDB                                                          ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,figma,npm&perline=5" />
-
-<br><br>
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-### ⚔ FRONTEND
-
-```yaml
-HTML5
-CSS3
-JavaScript
-React
-Vite
-```
-
-</td>
-
-<td align="center" width="33%">
-
-### 🛠 TOOLS
-
-```yaml
-Git
-GitHub
-VS Code
-Figma
-NPM
-```
-
-</td>
-
-<td align="center" width="33%">
-
-### 📡 LEARNING
-
-```yaml
-Node.js
-Express.js
-MongoDB
-REST API
-```
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-> ### **"The right tools don't make great developers. The mindset does."**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00ff66" width="80%" alt="Neon green divider"/>
 
 </div>
 
 ---
 
+## `03` // TECH STACK
+
 <div align="center">
 
-# ◈ CYBER COMMAND CENTER ◈
+### `FRONTEND SYSTEMS`
 
-### 「 LIVE DEVELOPER TELEMETRY 」
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark&perline=8" alt="Frontend technologies"/>
 
-<br>
+### `BACKEND SYSTEMS`
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                     SYSTEM MONITOR : ACTIVE                         ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   CPU ............... ████████████████████ 100%                     ║
-║   CREATIVITY ........ ████████████████████ 100%                     ║
-║   CURIOSITY ......... ███████████████████░ 98%                      ║
-║   COFFEE ............ ████████████████████ ∞                        ║
-║   BUG HUNTING ....... ███████████████████░ 97%                      ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark&perline=8" alt="Backend technologies"/>
 
-<br>
+### `TOOLS & CREATIVE TECHNOLOGIES`
 
-<table>
-
-<tr>
-
-<td align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
-
-</td>
-
-<td align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&background=00000000"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
-
-<br><br>
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-STATUS      :: ONLINE
-
-COMMITS     :: TRACKING...
-
-CONTRIBUTIONS :: SYNCHRONIZED
-
-MISSION     :: KEEP BUILDING
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vite,vercel,threejs&theme=dark&perline=8" alt="Developer tools"/>
 
 </div>
 
 ---
 
+## `04` // FEATURED PROJECTS
+
 <div align="center">
 
-# ◈ MISSION ARCHIVE ◈
+### `PROJECT MULTIVERSE`
 
-### 「 CLASSIFIED PROJECT DATABASE 」
+*Every project is another experiment. Every experiment is another level unlocked.*
 
-<br>
-
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                    ACCESS LEVEL : AUTHORIZED                        ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   TOTAL MISSIONS ............. LOADING...                           ║
-║   ACTIVE PROJECTS ............ AVAILABLE                            ║
-║   STATUS ..................... CLASSIFIED                           ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<br>
+</div>
 
 <table>
-
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" width="50%">
+### ☠️ CODE NINJA AI
 
-## 🚗 LUMINA MOTORS
+An AI-powered coding assistant concept designed around a futuristic developer experience.
 
-```yaml
-STATUS:
-  COMPLETED
+**Focus:** AI integration · React · Tailwind CSS
 
-TYPE:
-  Premium Car Dealership
-
-STACK:
-  React
-  Vite
-  Firebase
-
-MISSION:
-  Build a modern cinematic
-  dealership experience.
-```
-
-<a href="YOUR_PROJECT_LINK">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-00FF66?style=for-the-badge"/>
-</a>
+[![Repository](https://img.shields.io/badge/VIEW_SOURCE-00FF66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sifathossensuvo)
 
 </td>
+<td width="50%" valign="top">
 
-<td align="center" width="50%">
+### 🎬 MOVIE EXPLORER
 
-## 🌐 NEXT PROJECT
+A movie discovery experience focused on searching titles, exploring movies, and viewing details.
 
-```yaml
-STATUS:
-  IN PROGRESS
+**Focus:** React · JavaScript · TVMaze API
 
-TYPE:
-  Secret Mission
-
-STACK:
-  React
-  Node.js
-  MongoDB
-
-MISSION:
-  Building something
-  extraordinary...
-```
-
-<a href="#">
-<img src="https://img.shields.io/badge/COMING_SOON-111111?style=for-the-badge"/>
-</a>
+[![Repository](https://img.shields.io/badge/VIEW_SOURCE-00FF66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sifathossensuvo)
 
 </td>
-
 </tr>
+<tr>
+<td width="50%" valign="top">
 
+### 🌐 SH HOMEPAGE
+
+A custom Chrome-style homepage built to create a personalized browsing experience.
+
+**Focus:** Frontend development · UI design
+
+[![LIVE_DEMO](https://img.shields.io/badge/OPEN_LIVE_DEMO-00FF66?style=for-the-badge&logo=googlechrome&logoColor=black)](https://shhomepage.netlify.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ MORE EXPERIMENTS
+
+I also explore web interfaces, animation, AI concepts, and new technologies through continuous experimentation.
+
+**Focus:** Creativity · Learning · Building
+
+[![All Repositories](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00FF66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sifathossensuvo?tab=repositories)
+
+</td>
+</tr>
 </table>
 
-<br>
+<div align="center">
 
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-MISSION LOG
-
-✔ Build.
-✔ Improve.
-✔ Learn.
-✔ Repeat.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<br>
-
-> ### **"Every finished project unlocks the next challenge."**
+<img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width="350" alt="Anime-inspired action animation"/>
 
 </div>
 
 ---
 
+## `05` // GITHUB ANALYTICS
 
 <div align="center">
 
-# ◈ TRANSMISSION TERMINAL ◈
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sifathossensuvo&show_icons=true&hide_border=true&bg_color=050805&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&ring_color=00FF66" alt="GitHub statistics"/>
 
-### 「 SECURE COMMUNICATION CHANNEL OPENED 」
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Sifathossensuvo&hide_border=true&background=050805&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub contribution streak"/>
 
-<br>
+<br/><br/>
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                    COMMUNICATION CONSOLE ONLINE                     ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  CONNECTION STATUS ............. STABLE                             ║
-║  ENCRYPTION .................... ENABLED                            ║
-║  RESPONSE LATENCY .............. < 1 ms                             ║
-║  SIGNAL STRENGTH ............... ████████████████ 100%              ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-### 💻
-
-**GitHub**
-
-<a href="https://github.com/YOUR_USERNAME">
-Open Profile
-</a>
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐
-
-**Portfolio**
-
-<a href="YOUR_PORTFOLIO">
-Visit Website
-</a>
-
-</td>
-
-<td align="center" width="25%">
-
-### 💼
-
-**LinkedIn**
-
-<a href="YOUR_LINKEDIN">
-Connect
-</a>
-
-</td>
-
-<td align="center" width="25%">
-
-### 📧
-
-**Email**
-
-<a href="mailto:YOUR_EMAIL">
-Send Message
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-COMMUNICATION LOG
-
-✔ Collaboration ............. OPEN
-
-✔ Freelance Projects ........ AVAILABLE
-
-✔ Open Source ............... WELCOME
-
-✔ New Opportunities ......... ACCEPTED
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<br>
-
-> ### **"Great software is built together, not alone."**
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sifathossensuvo&layout=compact&hide_border=true&bg_color=050805&title_color=00FF66&text_color=FFFFFF" alt="Most used programming languages"/>
 
 </div>
 
 ---
 
+## `06` // CONTRIBUTION MATRIX
+
 <div align="center">
 
-# ◈ FINAL TRANSMISSION ◈
+### `EVERY COMMIT MOVES THE STORY FORWARD.`
 
-### 「 SESSION TERMINATED 」
-
-<br>
-
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                     FINAL SYSTEM REPORT                             ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   PROFILE STATUS ............. ACTIVE                               ║
-║   LAST UPDATE ............... JUST NOW                              ║
-║   NEXT OBJECTIVE ............ BUILD SOMETHING REMARKABLE            ║
-║   SYSTEM MESSAGE ............ KEEP LEARNING. KEEP BUILDING.         ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-```text
-──────────────────────────────────────────────────────────────────────
-
-LOADING COMPLETE ............................................. 100%
-
-No shortcuts.
-No excuses.
-No limits.
-
-Every bug solved is a lesson.
-Every project finished is another beginning.
-
-──────────────────────────────────────────────────────────────────────
-```
-
-<br>
-
-### ⚡ CURRENT MISSION
-
-> **Create products that people love using.**
-
-<br>
-
-```text
-██████████████████████████████████████████████████████████████████████
-
-TRANSMISSION STATUS
-
-✓ Identity Verified
-✓ Creative Mode Enabled
-✓ Mission Accepted
-
-SYSTEM SHUTDOWN...
-
-3...
-2...
-1...
-
-GOOD LUCK, DEVELOPER.
-
-██████████████████████████████████████████████████████████████████████
-```
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050505,50:00FF66,100:050505"/>
+<img src="https://raw.githubusercontent.com/Sifathossensuvo/Sifathossensuvo/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 
 </div>
 
+---
 
+## `07` // CURRENT MISSION
 
+```text
+[ ACTIVE OBJECTIVES ]
+
+[01]  Build polished, responsive web applications.
+[02]  Strengthen JavaScript and React fundamentals.
+[03]  Explore AI integration and developer tools.
+[04]  Improve problem-solving and software design.
+[05]  Create projects that people genuinely enjoy using.
+
+[STATUS]  IN PROGRESS
+[NEXT LEVEL]  ALWAYS LEARNING
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=700&color=00FF66&center=true&vCenter=true&width=600&lines%3E+New+ideas+loading...;%3E+New+skills+unlocking...;%3E+Next+project+initializing...;%3E+The+journey+continues." alt="Animated mission status"/>
+
+</div>
+
+---
+
+## `08` // CONNECT WITH ME
+
+<div align="center">
+
+**Have an interesting idea, a project to build, or something worth discussing? Let's connect.**
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-050805?style=for-the-badge&logo=github&logoColor=00FF66)](https://github.com/Sifathossensuvo)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-050805?style=for-the-badge&logo=linkedin&logoColor=00FF66)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-050805?style=for-the-badge&logo=vercel&logoColor=00FF66)](https://shhomepage.netlify.app/)
+
+<br/>
+
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="Anime-inspired night scene"/>
+
+### `BUILD YOUR OWN UNIVERSE.`
+
+*Stay curious. Keep creating. Never stop evolving.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:020402,50:063B16,100:00FF66&section=footer" width="100%" alt="Neon green footer"/>
+
+**© Sifat Hossen Shuvo · Crafted with code, creativity, and ambition.**
+
+</div>
 
