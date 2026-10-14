@@ -1,203 +1,284 @@
-
-<!--
-  SIFAT HOSSEN SHUVO
-  GitHub Profile README
-  Theme: Neon Green / Cyberpunk / Developer Console
--->
+<!-- SIFAT HOSSEN SHUVO | GITHUB PROFILE README -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020402,50:062b12,100:00ff66&text=SIFAT%20HOSSEN%20SHUVO&fontColor=ffffff&fontSize=39&fontAlignY=48&animation=fadeIn&stroke=00ff66&strokeWidth=1" width="100%" />
+# Sifat Hossen Shuvo
 
-<br/>
+### Full Stack Developer · AI Builder · Creative Technologist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Ideas+Into+Digital+Experiences;Exploring+AI%2C+Automation+%26+Creative+Code;Think+Beyond+The+Code.+Build+Beyond+Limits." alt="Typing SVG" />
+I build modern web applications, AI-powered tools, and digital experiences that turn ideas into reality.
 
-<br/>
+**Bangladesh · Open to Learning · Focused on Building**
 
-<a href="https://github.com/Sifathossensuvo">
-<img src="https://img.shields.io/badge/GITHUB-SIFATHOSSENSUVO-00ff66?style=for-the-badge&logo=github&logoColor=black&labelColor=050505" />
-</a>
-<a href="https://shhomepage.netlify.app/">
-<img src="https://img.shields.io/badge/MY%20DIGITAL%20SPACE-00ff66?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=050505" />
-</a>
+[Portfolio](https://shhomepage.netlify.app/) · [GitHub](https://github.com/Sifathossensuvo)
+
+</div>
+
+---
+
+<div align="center">
+
+`INTRODUCTION`　·　`TECHNOLOGY`　·　`PROJECTS`　·　`JOURNEY`　·　`CONTACT`
+
+</div>
+
+---
+
+## 01. About Me
+
+Hey, I'm **Sifat Hossen Shuvo**, a developer passionate about building useful software and creating meaningful digital experiences.
+
+My main focus is full-stack web development with the MERN stack. I also explore artificial intelligence, automation, UI/UX design, creative coding, and interactive web experiences.
+
+I enjoy taking an idea from concept to implementation, experimenting with different technologies, and improving the details that make a product feel complete.
+
+My goal is to become a developer who can combine solid engineering, thoughtful design, and practical problem-solving.
+
+## 02. Developer Overview
+
+| | |
+|:--|:--|
+| Name | Sifat Hossen Shuvo |
+| Role | Full Stack Developer |
+| Location | Bangladesh |
+| Primary Stack | MERN |
+| Frontend | React, JavaScript, Tailwind CSS |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| Interests | AI, creative development, UI/UX, automation |
+| Portfolio | [shhomepage.netlify.app](https://shhomepage.netlify.app/) |
+
+## 03. What I Do
+
+**Web Development**
+
+Building responsive interfaces, reusable components, interactive experiences, and full-stack applications.
+
+**AI & Automation**
+
+Experimenting with AI-powered applications, API integrations, developer tools, and desktop automation.
+
+**Creative Development**
+
+Combining interface design, animation, interaction, and frontend engineering to create distinctive digital products.
+
+**Product Thinking**
+
+Exploring how software can solve real problems and deliver value to its users.
+
+## 04. Technology Stack
+
+<div align="center">
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend technologies" />
+
+**BACKEND & DATABASE**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend and database technologies" />
+
+**TOOLS & CREATIVE TECHNOLOGY**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,figma,threejs" alt="Development tools" />
+
+</div>
+
+## 05. Frontend Development
+
+My frontend focus is building interfaces that are responsive, maintainable, and enjoyable to use.
+
+- HTML5 and semantic markup
+- CSS3 and responsive layouts
+- JavaScript ES6+
+- React.js and component-based architecture
+- Tailwind CSS and Bootstrap
+- React Router and reusable UI patterns
+- API integration with Fetch and Axios
+- Framer Motion and interactive animations
+- UI/UX design and Figma
+
+## 06. Backend & Application Development
+
+I work with backend technologies to understand how applications handle data, requests, authentication, and application logic.
+
+- Node.js and Express.js
+- MongoDB and CRUD operations
+- REST API development and integration
+- Authentication concepts, JWT, and Firebase
+- Client-server communication
+- API testing with Postman
+- AI API integration
+
+## 07. Additional Skills & Tools
+
+Beyond the core MERN stack, I explore tools and technologies that expand what I can build.
+
+| Area | Technologies |
+|:--|:--|
+| Programming | JavaScript, TypeScript fundamentals |
+| Design | Figma, UI/UX design |
+| Animation | Framer Motion, CSS animations |
+| Creative Web | Three.js |
+| AI | AI API integration, prompt engineering |
+| Version Control | Git, GitHub |
+| Deployment | Vercel and web deployment workflows |
+| Development | VS Code, npm, Postman |
+
+## 08. How I Approach Development
+
+My development process focuses on clarity, iteration, and practical results.
+
+**01 — Understand**
+
+Define the problem, the user, and the purpose of the product.
+
+**02 — Plan**
+
+Break the idea into manageable features and choose an appropriate stack.
+
+**03 — Build**
+
+Create the interface, implement functionality, and connect the necessary services.
+
+**04 — Refine**
+
+Test the experience, fix issues, improve responsiveness, and polish the details.
+
+**05 — Improve**
+
+Learn from the result and identify what can be made better.
+
+## 09. Featured Projects
+
+### CODE NINJA AI
+
+**AI-powered coding assistant**
+
+A personal project concept focused on combining AI assistance with a custom developer-console experience.
+
+Planned and explored features include AI chat, conversation history, configurable models, code-focused responses, and a distinctive dark interface.
+
+**Stack:** React · Tailwind CSS · OpenRouter
+
+---
+
+### Webstone
+
+**Software development agency**
+
+A digital agency project focused on creating professional websites and digital solutions with a polished visual identity and modern user experience.
+
+**Focus:** Web development · UI/UX · Digital products
+
+---
+
+### SH Homepage
+
+**Personal Chrome homepage**
+
+A custom browser homepage built to provide a personalized starting point for everyday browsing.
+
+[Visit the live project ↗](https://shhomepage.netlify.app/)
+
+---
+
+### Movie Explorer
+
+**Movie discovery web application**
+
+A responsive React application concept for browsing movies, searching titles, and exploring movie details using the TVMaze API.
+
+**Stack:** React · JavaScript · TVMaze API
+
+---
+
+### J.A.R.V.I.S. V2
+
+**AI desktop assistant**
+
+An experimental Python desktop assistant project exploring voice interaction, AI integration, and desktop automation.
+
+**Stack:** Python · CustomTkinter · Speech Recognition · Groq
+
+## 10. More Things I Build
+
+My interests go beyond a single framework or project type.
+
+- Browser customization and productivity tools
+- Interactive portfolios and animated interfaces
+- CRUD applications and REST API projects
+- AI-assisted developer experiences
+- Responsive business websites
+- Experiments with creative coding and 3D web technology
+
+I use projects to practice concepts, test ideas, and gradually improve my engineering skills.
+
+## 11. Currently Exploring
+
+I am continuing to strengthen my foundations while expanding my development capabilities.
+
+- JavaScript fundamentals and problem-solving
+- React architecture and application state management
+- TypeScript and more maintainable code
+- Backend development and database design
+- AI integrations and practical automation
+- Frontend performance, accessibility, and responsive design
+
+## 12. Beyond the Code
+
+I am interested in more than simply implementing features.
+
+I enjoy thinking about how a product should look, how people will use it, what problem it solves, and how its experience can be improved.
+
+I also enjoy experimenting with unusual visual directions, exploring new technologies, and turning small ideas into working projects.
+
+For me, development is a continuous process of learning, building, testing, and refining.
+
+## 13. My Development Principles
+
+> Build with purpose. Keep learning. Improve the details.
+
+- **Clarity over complexity:** Prefer solutions that are understandable and maintainable.
+- **Function before decoration:** Design should support the product, not distract from it.
+- **Consistency matters:** Small, regular improvements add up.
+- **Stay curious:** Explore new technologies without forgetting the fundamentals.
+- **Keep building:** Practical projects turn knowledge into experience.
+
+## 14. GitHub & Open Source
+
+GitHub is where I organize my code, document projects, experiment with ideas, and track my development journey.
+
+Explore my repositories to see what I am working on and how my projects evolve.
+
+<div align="center">
+
+<a href="https://github.com/Sifathossensuvo?tab=repositories">Explore All Repositories ↗</a>
 
 <br/><br/>
 
-**`DESIGNING SYSTEMS. WRITING CODE. BUILDING THE FUTURE.`**
+<img src="https://github-readme-stats.vercel.app/api?username=Sifathossensuvo&show_icons=true&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=238636" alt="GitHub statistics" />
+
+</div>
+
+## 15. Let's Connect
+
+I'm always interested in learning, exchanging ideas, and building useful digital experiences.
+
+<div align="center">
+
+**Sifat Hossen Shuvo**
+
+Full Stack Developer · AI Enthusiast · Creative Builder
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sifathossensuvo&style=flat-square&color=00ff66&label=PROFILE+VISITORS" />
+[Portfolio](https://shhomepage.netlify.app/) · [GitHub](https://github.com/Sifathossensuvo)
+
+<br/>
+
+---
+
+*Designed around a simple idea: keep learning, keep building, and make every project better than the last.*
 
 </div>
-
----
-
-## `> WHOAMI`
-
-```js
-const shuvo = {
-    name: "Sifat Hossen Shuvo",
-    role: "Full Stack Developer",
-    location: "Bangladesh",
-    stack: ["React", "Node.js", "Express", "MongoDB"],
-    interests: [
-        "Artificial Intelligence",
-        "Creative Development",
-        "UI/UX & Web Animation",
-        "Automation & Developer Tools"
-    ],
-    currentlyBuilding: [
-        "CODE NINJA AI",
-        "Creative Web Experiences"
-    ],
-    philosophy: "Build things that make people say WOW."
-};
-```
-
-I'm a developer who loves turning ideas into interactive digital experiences.
-
-I enjoy building responsive web applications, experimenting with AI-powered tools, exploring creative UI animations, and solving real-world problems through code.
-
-I don't just want to make websites work. I want to make them memorable.
-
----
-
-## `> TECH_STACK`
-
-<div align="center">
-
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma&theme=dark" />
-
-### BACKEND & DATABASE
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
-
-### TOOLS & CREATIVE TECH
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,threejs&theme=dark" />
-
-</div>
-
----
-
-## `> CURRENT_MISSIONS`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☠ CODE NINJA AI
-
-**An AI-powered coding companion.**
-
-Building a coding assistant experience with a custom hacker-console interface, AI integration, conversation history, and developer-focused features.
-
-`React` `Tailwind CSS` `OpenRouter`
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ WEBSTONE
-
-**Turning digital ideas into products.**
-
-A software development agency concept focused on modern websites, polished user experiences, and practical digital solutions.
-
-`React` `UI/UX` `Web Development`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⌘ DEVELOPER TOOLS
-
-**Small tools. Useful experiences.**
-
-Exploring browser customization, productivity tools, and interfaces that make everyday digital workflows better.
-
-</td>
-<td width="50%" valign="top">
-
-### ✦ CREATIVE WEB
-
-**Where engineering meets imagination.**
-
-Experimenting with motion, interaction design, immersive interfaces, and modern frontend experiences.
-
-`Framer Motion` `Three.js` `Creative UI`
-
-</td>
-</tr>
-</table>
-
----
-
-## `> GITHUB_INTELLIGENCE`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sifathossensuvo&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9&ring_color=00ff66" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sifathossensuvo&layout=compact&hide_border=true&bg_color=050505&title_color=00ff66&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sifathossensuvo&hide_border=true&background=050505&stroke=123d24&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&sideLabels=00ff66&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Contribution Streak" />
-
-</div>
-
----
-
-## `> CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sifathossensuvo&bg_color=050505&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-
-</div>
-
----
-
-## `> DEVELOPER_MINDSET`
-
-```text
-[01] Learn something new.
-[02] Build something useful.
-[03] Break things. Debug things.
-[04] Improve the details.
-[05] Repeat until extraordinary.
-```
-
-I believe great software comes from curiosity, consistency, experimentation, and the courage to build something different.
-
-**The goal isn't just to write more code. It's to create more value.**
-
----
-
-## `> CONNECT_TO_SHUVO`
-
-<div align="center">
-
-<a href="https://github.com/Sifathossensuvo">
-<img src="https://img.shields.io/badge/GitHub-Follow-00ff66?style=for-the-badge&logo=github&logoColor=black&labelColor=050505" />
-</a>
-
-<a href="https://shhomepage.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-00ff66?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=050505" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,100:020402&height=110&section=footer" width="100%" />
-
-**`END OF TRANSMISSION // MORE IDEAS LOADING...`**
-
-<sub>Designed with curiosity, powered by code, and built by Sifat Hossen Shuvo.</sub>
-
-</div>
-
