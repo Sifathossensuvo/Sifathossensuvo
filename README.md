@@ -6,14 +6,14 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,35:001707,70:003B19,100:8B5CF6&text=SIFAT%20HOSSEN%20SHUVO&fontColor=8B5CF6&fontSize=38&fontAlignY=43&animation=fadeIn&stroke=8B5CF6&strokeWidth=1&desc=MERN%20STACK%20DEVELOPER%20%2F%20AI%20SPECIALIST&descSize=12&descAlignY=62&descColor=67E8F9" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,35:001707,70:003B19,100:00FF41&text=SIFAT%20HOSSEN%20SHUVO&fontColor=00FF41&fontSize=38&fontAlignY=43&animation=fadeIn&stroke=00FF41&strokeWidth=1&desc=MERN%20STACK%20DEVELOPER%20%2F%20AI%20SPECIALIST&descSize=12&descAlignY=62&descColor=B5FFC8" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=650&color=8B5CF6&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer+profile...;%3E+MERN+Stack+Development+%5BACTIVE%5D;%3E+AI+Experiments+%5BIN+PROGRESS%5D;%3E+Creative+Engineering+%5BLOADING%5D;%3E+Think.+Build.+Break.+Rebuild" alt="Animated terminal introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=650&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer+profile...;%3E+MERN+Stack+Development+%5BACTIVE%5D;%3E+AI+Experiments+%5BIN+PROGRESS%5D;%3E+Creative+Engineering+%5BLOADING%5D;%3E+Think.+Build.+Break.+Rebuild" alt="Animated terminal introduction" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/OPERATOR-SHUVO-8B5CF6?style=flat-square&labelColor=050505" />
-<img src="https://img.shields.io/badge/ENVIRONMENT-DEVELOPMENT-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/OPERATOR-SHUVO-00FF41?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/ENVIRONMENT-DEVELOPMENT-00FF41?style=flat-square&labelColor=050505" />
 
 <br/><br/>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-ABOUT_THE_OPERATOR-8B5CF6?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/01-ABOUT_THE_OPERATOR-00FF41?style=for-the-badge&labelColor=050505" />
 
 </div>
 
@@ -102,8 +102,8 @@ operating_mode:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-8B5CF6?style=flat-square&labelColor=050505" />
-<img src="https://img.shields.io/badge/MODE-CREATIVE-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF41?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/MODE-CREATIVE-00FF41?style=flat-square&labelColor=050505" />
 
 </div>
 
@@ -113,7 +113,7 @@ operating_mode:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=footer" />
 
 <sub><code>ROOT ACCESS IS EARNED · EVERY LINE OF CODE IS PROGRESS</code></sub>
 
@@ -125,15 +125,15 @@ operating_mode:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/02-SKILLS_ARSENAL-8B5CF6?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/02-SKILLS_ARSENAL-00FF41?style=for-the-badge&labelColor=050505" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=INITIALIZING+SKILL+MATRIX...;LOADING+DEVELOPER+ARSENAL...;SYSTEM+READY+%2F%2F+ALL+MODULES+LOADED" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=INITIALIZING+SKILL+MATRIX...;LOADING+DEVELOPER+ARSENAL...;SYSTEM+READY+%2F%2F+ALL+MODULES+LOADED" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" />
 
 </div>
 
@@ -143,60 +143,60 @@ operating_mode:
 
 <h3>01 // FRONTEND ENGINEERING</h3>
 
-<img src="https://img.shields.io/badge/HTML5-8B5CF6?style=flat-square&logo=html5&logoColor=000000" />
-<img src="https://img.shields.io/badge/CSS3-8B5CF6?style=flat-square&logo=css3&logoColor=000000" />
-<img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=flat-square&logo=javascript&logoColor=000000" />
-<img src="https://img.shields.io/badge/React-8B5CF6?style=flat-square&logo=react&logoColor=000000" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-8B5CF6?style=flat-square&logo=tailwindcss&logoColor=000000" />
-<img src="https://img.shields.io/badge/Bootstrap-8B5CF6?style=flat-square&logo=bootstrap&logoColor=000000" />
-<img src="https://img.shields.io/badge/React_Router-8B5CF6?style=flat-square&logo=reactrouter&logoColor=000000" />
+<img src="https://img.shields.io/badge/HTML5-00FF41?style=flat-square&logo=html5&logoColor=000000" />
+<img src="https://img.shields.io/badge/CSS3-00FF41?style=flat-square&logo=css3&logoColor=000000" />
+<img src="https://img.shields.io/badge/JavaScript-00FF41?style=flat-square&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/React-00FF41?style=flat-square&logo=react&logoColor=000000" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-00FF41?style=flat-square&logo=tailwindcss&logoColor=000000" />
+<img src="https://img.shields.io/badge/Bootstrap-00FF41?style=flat-square&logo=bootstrap&logoColor=000000" />
+<img src="https://img.shields.io/badge/React_Router-00FF41?style=flat-square&logo=reactrouter&logoColor=000000" />
 
 <h3>02 // BACKEND & DATABASE</h3>
 
-<img src="https://img.shields.io/badge/Node.js-8B5CF6?style=flat-square&logo=nodedotjs&logoColor=000000" />
-<img src="https://img.shields.io/badge/Express.js-8B5CF6?style=flat-square&logo=express&logoColor=000000" />
-<img src="https://img.shields.io/badge/MongoDB-8B5CF6?style=flat-square&logo=mongodb&logoColor=000000" />
-<img src="https://img.shields.io/badge/REST_API-8B5CF6?style=flat-square&logo=fastapi&logoColor=000000" />
-<img src="https://img.shields.io/badge/Firebase-8B5CF6?style=flat-square&logo=firebase&logoColor=000000" />
+<img src="https://img.shields.io/badge/Node.js-00FF41?style=flat-square&logo=nodedotjs&logoColor=000000" />
+<img src="https://img.shields.io/badge/Express.js-00FF41?style=flat-square&logo=express&logoColor=000000" />
+<img src="https://img.shields.io/badge/MongoDB-00FF41?style=flat-square&logo=mongodb&logoColor=000000" />
+<img src="https://img.shields.io/badge/REST_API-00FF41?style=flat-square&logo=fastapi&logoColor=000000" />
+<img src="https://img.shields.io/badge/Firebase-00FF41?style=flat-square&logo=firebase&logoColor=000000" />
 
 <h3>03 // MOTION & VISUALS</h3>
 
-<img src="https://img.shields.io/badge/Framer_Motion-8B5CF6?style=flat-square&logo=framer&logoColor=000000" />
-<img src="https://img.shields.io/badge/Three.js-8B5CF6?style=flat-square&logo=threedotjs&logoColor=000000" />
-<img src="https://img.shields.io/badge/Lenis-8B5CF6?style=flat-square&logo=react&logoColor=000000" />
-<img src="https://img.shields.io/badge/Responsive_UI-8B5CF6?style=flat-square&logo=css3&logoColor=000000" />
+<img src="https://img.shields.io/badge/Framer_Motion-00FF41?style=flat-square&logo=framer&logoColor=000000" />
+<img src="https://img.shields.io/badge/Three.js-00FF41?style=flat-square&logo=threedotjs&logoColor=000000" />
+<img src="https://img.shields.io/badge/Lenis-00FF41?style=flat-square&logo=react&logoColor=000000" />
+<img src="https://img.shields.io/badge/Responsive_UI-00FF41?style=flat-square&logo=css3&logoColor=000000" />
 
 </td>
 <td width="50%" valign="top">
 
 <h3>04 // AI & INTELLIGENCE</h3>
 
-<img src="https://img.shields.io/badge/AI_Integration-8B5CF6?style=flat-square&logo=openai&logoColor=000000" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square&logo=googlegemini&logoColor=000000" />
-<img src="https://img.shields.io/badge/OpenRouter-8B5CF6?style=flat-square&logo=openrouter&logoColor=000000" />
-<img src="https://img.shields.io/badge/API_Integration-8B5CF6?style=flat-square&logo=fastapi&logoColor=000000" />
+<img src="https://img.shields.io/badge/AI_Integration-00FF41?style=flat-square&logo=openai&logoColor=000000" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-00FF41?style=flat-square&logo=googlegemini&logoColor=000000" />
+<img src="https://img.shields.io/badge/OpenRouter-00FF41?style=flat-square&logo=openrouter&logoColor=000000" />
+<img src="https://img.shields.io/badge/API_Integration-00FF41?style=flat-square&logo=fastapi&logoColor=000000" />
 
 <h3>05 // UI/UX & DESIGN</h3>
 
-<img src="https://img.shields.io/badge/Figma-8B5CF6?style=flat-square&logo=figma&logoColor=000000" />
-<img src="https://img.shields.io/badge/UI%2FUX_Design-8B5CF6?style=flat-square&logo=figma&logoColor=000000" />
-<img src="https://img.shields.io/badge/Web_Animation-8B5CF6?style=flat-square&logo=framer&logoColor=000000" />
+<img src="https://img.shields.io/badge/Figma-00FF41?style=flat-square&logo=figma&logoColor=000000" />
+<img src="https://img.shields.io/badge/UI%2FUX_Design-00FF41?style=flat-square&logo=figma&logoColor=000000" />
+<img src="https://img.shields.io/badge/Web_Animation-00FF41?style=flat-square&logo=framer&logoColor=000000" />
 
 <h3>06 // DEVELOPER TOOLKIT</h3>
 
-<img src="https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=000000" />
-<img src="https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=000000" />
-<img src="https://img.shields.io/badge/VS_Code-8B5CF6?style=flat-square&logo=visualstudiocode&logoColor=000000" />
-<img src="https://img.shields.io/badge/Postman-8B5CF6?style=flat-square&logo=postman&logoColor=000000" />
-<img src="https://img.shields.io/badge/npm-8B5CF6?style=flat-square&logo=npm&logoColor=000000" />
-<img src="https://img.shields.io/badge/Vercel-8B5CF6?style=flat-square&logo=vercel&logoColor=000000" />
+<img src="https://img.shields.io/badge/Git-00FF41?style=flat-square&logo=git&logoColor=000000" />
+<img src="https://img.shields.io/badge/GitHub-00FF41?style=flat-square&logo=github&logoColor=000000" />
+<img src="https://img.shields.io/badge/VS_Code-00FF41?style=flat-square&logo=visualstudiocode&logoColor=000000" />
+<img src="https://img.shields.io/badge/Postman-00FF41?style=flat-square&logo=postman&logoColor=000000" />
+<img src="https://img.shields.io/badge/npm-00FF41?style=flat-square&logo=npm&logoColor=000000" />
+<img src="https://img.shields.io/badge/Vercel-00FF41?style=flat-square&logo=vercel&logoColor=000000" />
 
 <h3>07 // DEVELOPMENT PROTOCOLS</h3>
 
-<img src="https://img.shields.io/badge/CRUD_Operations-8B5CF6?style=flat-square&logo=databricks&logoColor=000000" />
-<img src="https://img.shields.io/badge/Authentication-8B5CF6?style=flat-square&logo=jsonwebtokens&logoColor=000000" />
-<img src="https://img.shields.io/badge/Fetch_%26_Axios-8B5CF6?style=flat-square&logo=axios&logoColor=000000" />
-<img src="https://img.shields.io/badge/Deployment-8B5CF6?style=flat-square&logo=vercel&logoColor=000000" />
+<img src="https://img.shields.io/badge/CRUD_Operations-00FF41?style=flat-square&logo=databricks&logoColor=000000" />
+<img src="https://img.shields.io/badge/Authentication-00FF41?style=flat-square&logo=jsonwebtokens&logoColor=000000" />
+<img src="https://img.shields.io/badge/Fetch_%26_Axios-00FF41?style=flat-square&logo=axios&logoColor=000000" />
+<img src="https://img.shields.io/badge/Deployment-00FF41?style=flat-square&logo=vercel&logoColor=000000" />
 
 </td>
 </tr>
@@ -204,7 +204,7 @@ operating_mode:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=footer" />
 
 <br/>
 
@@ -212,9 +212,9 @@ operating_mode:
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LEARN-DAILY-8B5CF6?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/BUILD-CONTINUOUSLY-8B5CF6?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/EVOLVE-ALWAYS-8B5CF6?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/LEARN-DAILY-00FF41?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/BUILD-CONTINUOUSLY-00FF41?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/EVOLVE-ALWAYS-00FF41?style=for-the-badge&labelColor=050505" />
 
 </div>
 
@@ -225,11 +225,11 @@ operating_mode:
 <div align="center">
 <br/><br/>
 
-<img src="https://img.shields.io/badge/03-SERVICES.EXE-8B5CF6?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/03-SERVICES.EXE-00FF41?style=for-the-badge&labelColor=050505" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=650&lines=ESTABLISHING+SERVICE+CONNECTION...;SCANNING+DIGITAL+CAPABILITIES...;ALL+SERVICE+MODULES+INITIALIZED." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=ESTABLISHING+SERVICE+CONNECTION...;SCANNING+DIGITAL+CAPABILITIES...;ALL+SERVICE+MODULES+INITIALIZED." />
 
 <br/>
 
@@ -237,7 +237,7 @@ operating_mode:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" />
 
 </div>
 
@@ -247,7 +247,7 @@ operating_mode:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-FRONTEND_ENGINEERING-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/01-FRONTEND_ENGINEERING-00FF41?style=flat-square&labelColor=050505" />
 
 <br/><br/>
 
@@ -271,7 +271,7 @@ Building responsive, modern and high-performance web interfaces that turn ideas 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/02-FULL_STACK_SOLUTIONS-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/02-FULL_STACK_SOLUTIONS-00FF41?style=flat-square&labelColor=050505" />
 
 <br/><br/>
 
@@ -297,7 +297,7 @@ Connecting interfaces to reliable backend systems, databases and APIs for practi
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/03-UI_UX_DESIGN-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/03-UI_UX_DESIGN-00FF41?style=flat-square&labelColor=050505" />
 
 <br/><br/>
 
@@ -321,7 +321,7 @@ Designing intuitive digital experiences where visual identity, usability and fun
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/04-MOTION_ENGINEERING-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/04-MOTION_ENGINEERING-00FF41?style=flat-square&labelColor=050505" />
 
 <br/><br/>
 
@@ -347,7 +347,7 @@ Adding purposeful motion, smooth transitions and immersive interactions to creat
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/05-AI_INTEGRATION-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/05-AI_INTEGRATION-00FF41?style=flat-square&labelColor=050505" />
 
 <br/><br/>
 
@@ -371,7 +371,7 @@ Integrating AI-powered capabilities into web applications to make digital produc
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/06-CUSTOM_WEB_SOLUTIONS-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/06-CUSTOM_WEB_SOLUTIONS-00FF41?style=flat-square&labelColor=050505" />
 
 <br/><br/>
 
@@ -398,16 +398,16 @@ Transforming concepts into custom digital experiences designed around real proje
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=footer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=HAVE+A+PROJECT%3F+LET'S+BUILD+IT.;YOUR+VISION.+MY+CODE.+ONE+MISSION." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=HAVE+A+PROJECT%3F+LET'S+BUILD+IT.;YOUR+VISION.+MY+CODE.+ONE+MISSION." />
 
 <br/><br/>
 
 <a href="https://github.com/Sifathossensuvo">
-<img src="https://img.shields.io/badge/INITIATE_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
+<img src="https://img.shields.io/badge/INITIATE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
 </a>
 
 <br/><br/>
@@ -423,11 +423,11 @@ Transforming concepts into custom digital experiences designed around real proje
 <div align="center">
 <br/><br/>
 
-<img src="https://img.shields.io/badge/04-PROJECT_VAULT-8B5CF6?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/04-PROJECT_VAULT-00FF41?style=for-the-badge&labelColor=050505" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=ACCESSING+CLASSIFIED+DATABASE...;DECRYPTING+PROJECT+ARCHIVES...;TARGETS+ACQUIRED+%2F%2F+VAULT+UNLOCKED." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=ACCESSING+CLASSIFIED+DATABASE...;DECRYPTING+PROJECT+ARCHIVES...;TARGETS+ACQUIRED+%2F%2F+VAULT+UNLOCKED." />
 
 <br/>
 
@@ -435,7 +435,7 @@ Transforming concepts into custom digital experiences designed around real proje
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" />
 
 </div>
 
@@ -445,11 +445,11 @@ Transforming concepts into custom digital experiences designed around real proje
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECT_001-CLASSIFIED-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/PROJECT_001-CLASSIFIED-00FF41?style=flat-square&labelColor=050505" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI-POWERED-8B5CF6?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/AI-POWERED-00FF41?style=for-the-badge&labelColor=050505" />
 
 </div>
 
@@ -461,14 +461,14 @@ A hacker-console-inspired coding assistant designed around a dark interface, ter
 
 **TECH ARSENAL**
 
-<img src="https://img.shields.io/badge/React-8B5CF6?style=flat-square&logo=react&logoColor=000000" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-8B5CF6?style=flat-square&logo=tailwindcss&logoColor=000000" />
-<img src="https://img.shields.io/badge/OpenRouter-8B5CF6?style=flat-square&logo=openrouter&logoColor=000000" />
+<img src="https://img.shields.io/badge/React-00FF41?style=flat-square&logo=react&logoColor=000000" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-00FF41?style=flat-square&logo=tailwindcss&logoColor=000000" />
+<img src="https://img.shields.io/badge/OpenRouter-00FF41?style=flat-square&logo=openrouter&logoColor=000000" />
 
 **MISSION STATUS:** `IN DEVELOPMENT`
 
 <a href="https://github.com/Sifathossensuvo">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
+<img src="https://img.shields.io/badge/VIEW_SOURCE-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
 </a>
 
 </td>
@@ -476,11 +476,11 @@ A hacker-console-inspired coding assistant designed around a dark interface, ter
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECT_002-CLASSIFIED-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/PROJECT_002-CLASSIFIED-00FF41?style=flat-square&labelColor=050505" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/WEB-APPLICATION-8B5CF6?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/WEB-APPLICATION-00FF41?style=for-the-badge&labelColor=050505" />
 
 </div>
 
@@ -492,14 +492,14 @@ A responsive React application built to explore movies, search titles and view m
 
 **TECH ARSENAL**
 
-<img src="https://img.shields.io/badge/React-8B5CF6?style=flat-square&logo=react&logoColor=000000" />
-<img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=flat-square&logo=javascript&logoColor=000000" />
-<img src="https://img.shields.io/badge/TVmaze_API-8B5CF6?style=flat-square&logo=themoviedatabase&logoColor=000000" />
+<img src="https://img.shields.io/badge/React-00FF41?style=flat-square&logo=react&logoColor=000000" />
+<img src="https://img.shields.io/badge/JavaScript-00FF41?style=flat-square&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/TVmaze_API-00FF41?style=flat-square&logo=themoviedatabase&logoColor=000000" />
 
 **MISSION STATUS:** `PORTFOLIO PROJECT`
 
 <a href="https://github.com/Sifathossensuvo">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
+<img src="https://img.shields.io/badge/VIEW_SOURCE-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
 </a>
 
 </td>
@@ -509,11 +509,11 @@ A responsive React application built to explore movies, search titles and view m
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECT_003-CLASSIFIED-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/PROJECT_003-CLASSIFIED-00FF41?style=flat-square&labelColor=050505" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BROWSER-CUSTOMIZATION-8B5CF6?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/BROWSER-CUSTOMIZATION-00FF41?style=for-the-badge&labelColor=050505" />
 
 </div>
 
@@ -525,14 +525,14 @@ A personalized browser homepage designed to replace the default experience with 
 
 **TECH ARSENAL**
 
-<img src="https://img.shields.io/badge/HTML5-8B5CF6?style=flat-square&logo=html5&logoColor=000000" />
-<img src="https://img.shields.io/badge/CSS3-8B5CF6?style=flat-square&logo=css3&logoColor=000000" />
-<img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=flat-square&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/HTML5-00FF41?style=flat-square&logo=html5&logoColor=000000" />
+<img src="https://img.shields.io/badge/CSS3-00FF41?style=flat-square&logo=css3&logoColor=000000" />
+<img src="https://img.shields.io/badge/JavaScript-00FF41?style=flat-square&logo=javascript&logoColor=000000" />
 
 **MISSION STATUS:** `DEPLOYED`
 
 <a href="https://shhomepage.netlify.app/">
-<img src="https://img.shields.io/badge/LAUNCH_LIVE-8B5CF6?style=for-the-badge&logo=netlify&logoColor=000000&labelColor=050505" />
+<img src="https://img.shields.io/badge/LAUNCH_LIVE-00FF41?style=for-the-badge&logo=netlify&logoColor=000000&labelColor=050505" />
 </a>
 
 </td>
@@ -540,11 +540,11 @@ A personalized browser homepage designed to replace the default experience with 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECT_004-CLASSIFIED-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/PROJECT_004-CLASSIFIED-00FF41?style=flat-square&labelColor=050505" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AUTOMATION-SYSTEM-8B5CF6?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/AUTOMATION-SYSTEM-00FF41?style=for-the-badge&labelColor=050505" />
 
 </div>
 
@@ -556,14 +556,14 @@ A project focused on automating periodic requests to help keep supported web ser
 
 **TECH ARSENAL**
 
-<img src="https://img.shields.io/badge/GitHub_Actions-8B5CF6?style=flat-square&logo=githubactions&logoColor=000000" />
-<img src="https://img.shields.io/badge/Automation-8B5CF6?style=flat-square&logo=dependabot&logoColor=000000" />
-<img src="https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=000000" />
+<img src="https://img.shields.io/badge/GitHub_Actions-00FF41?style=flat-square&logo=githubactions&logoColor=000000" />
+<img src="https://img.shields.io/badge/Automation-00FF41?style=flat-square&logo=dependabot&logoColor=000000" />
+<img src="https://img.shields.io/badge/Git-00FF41?style=flat-square&logo=git&logoColor=000000" />
 
 **MISSION STATUS:** `SOURCE AVAILABLE`
 
 <a href="https://github.com/Sifathossensuvo/render-keep-alive">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
+<img src="https://img.shields.io/badge/VIEW_SOURCE-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
 </a>
 
 </td>
@@ -574,16 +574,16 @@ A project focused on automating periodic requests to help keep supported web ser
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=footer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=FOUR+TARGETS.+ONE+MISSION.;EVERY+PROJECT+TELLS+A+STORY.;MORE+SYSTEMS+UNDER+CONSTRUCTION..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=FOUR+TARGETS.+ONE+MISSION.;EVERY+PROJECT+TELLS+A+STORY.;MORE+SYSTEMS+UNDER+CONSTRUCTION..." />
 
 <br/><br/>
 
 <a href="https://github.com/Sifathossensuvo?tab=repositories">
-<img src="https://img.shields.io/badge/ACCESS_FULL_PROJECT_ARCHIVE-8B5CF6?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
+<img src="https://img.shields.io/badge/ACCESS_FULL_PROJECT_ARCHIVE-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
 </a>
 
 <br/><br/>
@@ -598,11 +598,11 @@ A project focused on automating periodic requests to help keep supported web ser
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/05-GITHUB_ACTIVITY_MATRIX-8B5CF6?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/05-GITHUB_ACTIVITY_MATRIX-00FF41?style=for-the-badge&labelColor=050505" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2300&pause=700&color=8B5CF6&center=true&vCenter=true&width=650&lines=CONNECTING+TO+GITHUB+MAINFRAME...;ANALYZING+CONTRIBUTION+SIGNALS...;DEVELOPER+ACTIVITY+MATRIX+ONLINE." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2300&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=CONNECTING+TO+GITHUB+MAINFRAME...;ANALYZING+CONTRIBUTION+SIGNALS...;DEVELOPER+ACTIVITY+MATRIX+ONLINE." />
 
 <br/>
 
@@ -610,7 +610,7 @@ A project focused on automating periodic requests to help keep supported web ser
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" />
 
 </div>
 
@@ -618,9 +618,9 @@ A project focused on automating periodic requests to help keep supported web ser
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sifathossensuvo&show_icons=true&hide_border=true&bg_color=050505&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sifathossensuvo&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sifathossensuvo&layout=compact&hide_border=true&bg_color=050505&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sifathossensuvo&layout=compact&hide_border=true&bg_color=050505&title_color=00FF41&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
@@ -634,11 +634,11 @@ A project focused on automating periodic requests to help keep supported web ser
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/06-CONNECT_WITH_THE_OPERATOR-8B5CF6?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/06-CONNECT_WITH_THE_OPERATOR-00FF41?style=for-the-badge&labelColor=050505" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2200&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=INITIALIZING+SECURE+CONNECTION...;SCANNING+AVAILABLE+CHANNELS...;OPERATOR+CONNECTION+GATEWAY+ONLINE." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=INITIALIZING+SECURE+CONNECTION...;SCANNING+AVAILABLE+CHANNELS...;OPERATOR+CONNECTION+GATEWAY+ONLINE." />
 
 <br/>
 
@@ -646,7 +646,7 @@ A project focused on automating periodic requests to help keep supported web ser
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" />
 
 </div>
 
@@ -656,7 +656,7 @@ A project focused on automating periodic requests to help keep supported web ser
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CHANNEL_01-PROFESSIONAL_NETWORK-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/CHANNEL_01-PROFESSIONAL_NETWORK-00FF41?style=flat-square&labelColor=050505" />
 
 <br/><br/>
 
@@ -669,7 +669,7 @@ Connect for professional networking, development opportunities and collaboration
 <br/>
 
 <a href="https://www.linkedin.com/in/sifat-hossen-shuvo-a1a53241b/">
-<img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=050505" />
+<img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=050505" />
 </a>
 
 <br/><br/>
@@ -683,7 +683,7 @@ Connect for professional networking, development opportunities and collaboration
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CHANNEL_02-SOURCE_CODE_NETWORK-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/CHANNEL_02-SOURCE_CODE_NETWORK-00FF41?style=flat-square&labelColor=050505" />
 
 <br/><br/>
 
@@ -696,7 +696,7 @@ Explore my repositories, inspect my projects and follow my development journey.
 <br/>
 
 <a href="https://github.com/Sifathossensuvo">
-<img src="https://img.shields.io/badge/ACCESS_REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
+<img src="https://img.shields.io/badge/ACCESS_REPOSITORIES-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
 </a>
 
 <br/><br/>
@@ -712,7 +712,7 @@ Explore my repositories, inspect my projects and follow my development journey.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CHANNEL_03-SOCIAL_NETWORK-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/CHANNEL_03-SOCIAL_NETWORK-00FF41?style=flat-square&labelColor=050505" />
 
 <br/><br/>
 
@@ -725,7 +725,7 @@ Follow along for updates, creative experiments and moments from my development j
 <br/>
 
 <a href="https://www.facebook.com/profile.php?id=61591768663580">
-<img src="https://img.shields.io/badge/OPEN_SOCIAL_CHANNEL-8B5CF6?style=for-the-badge&logo=facebook&logoColor=000000&labelColor=050505" />
+<img src="https://img.shields.io/badge/OPEN_SOCIAL_CHANNEL-00FF41?style=for-the-badge&logo=facebook&logoColor=000000&labelColor=050505" />
 </a>
 
 <br/><br/>
@@ -739,7 +739,7 @@ Follow along for updates, creative experiments and moments from my development j
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CHANNEL_04-DIRECT_COMMUNICATION-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/CHANNEL_04-DIRECT_COMMUNICATION-00FF41?style=flat-square&labelColor=050505" />
 
 <br/><br/>
 
@@ -752,7 +752,7 @@ Have a project idea, collaboration proposal or a development question? Reach out
 <br/>
 
 <a href="mailto:sifahossensuvo@gmail.com">
-<img src="https://img.shields.io/badge/TRANSMIT_MESSAGE-8B5CF6?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=050505" />
+<img src="https://img.shields.io/badge/TRANSMIT_MESSAGE-00FF41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=050505" />
 </a>
 
 <br/><br/>
@@ -769,11 +769,11 @@ Have a project idea, collaboration proposal or a development question? Reach out
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/INCOMING_TRANSMISSION-READY-8B5CF6?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/INCOMING_TRANSMISSION-READY-00FF41?style=for-the-badge&labelColor=050505" />
 
 <br/><br/>
 
@@ -800,13 +800,13 @@ Have a project idea, collaboration proposal or a development question? Reach out
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=GOOD+PROJECTS+START+WITH+A+CONNECTION.;LET'S+BUILD+SOMETHING+EXTRAORDINARY.;TRANSMISSION+GATEWAY+READY_" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=GOOD+PROJECTS+START+WITH+A+CONNECTION.;LET'S+BUILD+SOMETHING+EXTRAORDINARY.;TRANSMISSION+GATEWAY+READY_" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CONNECT-8B5CF6?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
-<img src="https://img.shields.io/badge/COLLABORATE-8B5CF6?style=for-the-badge&logo=handshake&logoColor=000000&labelColor=050505" />
-<img src="https://img.shields.io/badge/CREATE-8B5CF6?style=for-the-badge&logo=codeforces&logoColor=000000&labelColor=050505" />
+<img src="https://img.shields.io/badge/CONNECT-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" />
+<img src="https://img.shields.io/badge/COLLABORATE-00FF41?style=for-the-badge&logo=handshake&logoColor=000000&labelColor=050505" />
+<img src="https://img.shields.io/badge/CREATE-00FF41?style=for-the-badge&logo=codeforces&logoColor=000000&labelColor=050505" />
 
 <br/><br/>
 
@@ -822,11 +822,11 @@ Have a project idea, collaboration proposal or a development question? Reach out
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=EVERY+LINE+HAS+A+PURPOSE.;EVERY+PROJECT+HAS+A+STORY.;THE+MISSION+IS+NEVER+OVER..._ " />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=EVERY+LINE+HAS+A+PURPOSE.;EVERY+PROJECT+HAS+A+STORY.;THE+MISSION+IS+NEVER+OVER..._ " />
 
 <br/>
 
@@ -834,8 +834,8 @@ Have a project idea, collaboration proposal or a development question? Reach out
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-8B5CF6?style=flat-square&labelColor=050505" />
-<img src="https://img.shields.io/badge/MINDSET-ALWAYS_EVOLVING-8B5CF6?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-00FF41?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS_EVOLVING-00FF41?style=flat-square&labelColor=050505" />
 
 <br/><br/>
 
@@ -843,7 +843,7 @@ Have a project idea, collaboration proposal or a development question? Reach out
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=footer" />
 
 </div>
 
